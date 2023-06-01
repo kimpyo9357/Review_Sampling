@@ -1,0 +1,401 @@
+27/SN 일/NNB 금요일/NNG 에/JKB 주문/NNG 하/XSV 아서/EC 늦/VA 으면/EC 월요일/NNG 쯤/NNG 이나/JC 배송/NNG 이/JKS 올/MM 줄/NNB 알/VV 았/EP 는데/EC 만/NR 하루만/NNP 에/JKB 택배/NNP 가/JKS 오/VV 았/EP 네요/EF ./SF
+빠르/VA ㄴ/ETM 배송/NNG 매우/MAG 만족/NNG 하/VX ㅂ니다/EF ./SF
+메인보드/NNP 가/JKS 구형/NNG B/SL 460/SN 보/VV 드라/EC PCIe/SL 3/SN ./SP 0/SN 만/NR 지원/NNG 하/XSV 는데/EC 무리/NNG 없이/MAG 호환/NNG 되/XSV 구요/EF ./SF
+기존/NNG 에/JKB 쓰/VV 던/ETM SATA/SL SSD/SL 에/JKB 비하/VV 면/EC 속도/NNG 가/JKS 날아다니/VV ㅂ니다/EF ./SF
+OEM/SL 제품/NNG 이/VCP 라/EC 매/VV 지/EC 칸/NNP 을/JKO 이용/NNG 하/XSV 아서/EC 마/NNG 이/VCP 그레이/NNP 션/NNP 을/JKO 못하/VX 는/ETM 것/NNB ㄴ/JX 아쉽/VA 지만/EC 무료/NNG 프로그램/NNG Macrium/SL Reflect/SL 를/JKO 이용/NNG 하/XSV 아서/EC 마/NNG 이/VCP 그레이/NNP 션/NNP 하/VV 아서/EC 부팅/NNP 디스크/NNG 로/JKB 사용/NNG 중/NNB 이/VCP ㅂ니다/EF ./SF
+펌웨어/NNP 버전/NNP 은/JX GXA/SL 7601/SN Q/SL 네요/EF ./SF
+P/SL ./SP S/SL 리뷰/NNG 를/JKO 작성/NNG 하/XSV 고/EC 문/NNG 의/JKG 글/NNG 을/JKO 보/VV 니/EC 판매자/NNG 분/XSN 이/JKS 병행/NNG 수입/NNG 제품/NNG 이/VCP 라/EC 펌웨어/NNP 업데이트/NNP 가/JKS 안/NNG 되/XSV ㄴ다고/EC 하/VV 시/EP 는데/EC 병행/NNG 수입/NNG 제품/NNG 도/JX 펌웨어/NNP 업데이트/NNP 되/VV ㅂ니다/EF ./SF
+검색/NNG 하/XSV 아/EC 보/VX 니/EC GXA/SL 7707/SN Q/SL 버전/NNP 이/JKS 올라오/VV 아/EC 있/VX 더군요/EF ./SF
+펌웨어/NNP 업데이트/NNP 완료/NNG 벤치/NNG 사진/NNG 첨부/NNP 하/VX ㅂ니다/EF ./SF
+PCIe/SL 4/SN ./SP 0/SN 이/NR 아니/VCN ㄴ/ETM PCIe/SL 3/SN ./SP 0/SN 으로/JKB 동작/NNG 중/NNB 이/VCP 라는/ETM 걸/VV ㄹ/ETM 감안/NNG 하/XSV 고/EC 보/VX 세요/EF ./SF
+펌웨어/NNP 올리/VV 고/EC 속도/NNG 수치/NNG 가/JKS 소폭/NNG 상승/NNG 하/XSV 았/EP 는데/EC 오차/NNG 범위/NNG 내/NP 이/VCP ㄴ/ETM 것/NNB 같/VA 습니다/EF ./SF
+펌웨어/NNP 업데이트/NNP 가/JKS 불안/NNG 하/XSV ㄴ/ETM 분/NNB 들/XSN 은/JX 그냥/MAG 쓰/VV 어도/EC 되/VV ㄹ듯/EC 하/VX 아요/EF ./SF
+/SW
+다른/MM 곳/NNG 에서/JKB PM/SL 9/SN A1/NNP 구매/NNG 하/XSV 았었/EP 는데/EC 펌웨어/NNP 이슈/NNG 때문/NNB 에/JKB 최신/NNG 제품/NNG 보내/VV 어/EC 달/VX 라니까/EC 알/VV 았/EP 다/EC 하/VV 아/EC 놓/VX 고/EC 21/SN 년/NNB 초반/NNG 엉뚱/XR 하/XSA ㄴ/ETM 제품/NNG 보내/VV ㅁ/ETN 바로/NNP 반품/NNG 하/XSV 고/EC 같/VA 은/ETM 사고/NNG 방지/NNG 차/NNG 구매/NNG 전/MM 여러/MM 판매처/NNG 이곳저곳/NNG 전화/NNG 돌림/NNG 뭔/MM 하나같이/MAG 여자/NNG 들/XSN 이/JKS 전화/NNG 귀찮/VA 은/ETM 듯/NNB 개/NNB 대충/MAG 받/VV 음/ETN 기본/NNG 적/XSN 이/VCP ㄴ/ETM 안녕하세요/NNP xxx/SL 이/VCP ㅂ니다/EC 도/JX 안/NNG 하/XSV 고/EC 가만히/MAG 멍/NNG 때리/VV 길래/EC 전화/NNG 잘못/MAG 것/NNB ㄴ/JX 주/VX ㄴ/ETM 고객/NNG 센터/NNG 가/JKS 컴/NNG 알/NNG 못/NNG 마냥/JKB 제품명/NNG 말/NNG 하/XSV 아도/EC 뭔/MM 지도/NNP 모르/VV 고/EC 속도/NNG 저하/NNP 이슈/NNG 도/JX 모르/VV ㅁ/ETN 제일/MAG 중요/XR 하/XSA ㄴ/ETM 최신/NNG 생산/NNG 라인/NNP 제품/NNG 보내/VV 어/EC 달/VX 라니까/EC 지/NNG 들/XSN 도/JX 알/VV ㄹ/ETM 수/NNB 없/VA 다는/ETM 답답/XR 하/XSA ㄴ/ETM 소리/NNG 만하/XSA ㅁ/ETN 투명/NNG 하/XSV 게/EC 이스라/NNP 겉/NNG 에서/JKB 확인/NNG 다/MAG 가능/NNG 하/XSV ㄴ데/EC 뭔/MM 개소/NNB 린지/NNP ./SF
+마지막/NNG 으로/JKB 전화/NNG 것/NNB ㄴ/JX 곳/NNG 이/JKS 여기/NP 남성/NNG 분/XSN 께서/JKS 전화/NNG 받/VV 는데/EC 괜히/MAG 믿음/NNG 이감/NNP 역시/MAG 나/JX 친절/NNG 하/XSV 고/EC 정확/XR 하/XSA ㄴ/ETM 질의응답/NNG 해/NNG 주심/NNG 최신/NNG 펌웨어/NNP 제품/NNG 에/JKB 나사/NNP 까지/JX 동봉/NNG 하/XSV 아/EC 주/VX 시/EP 고/EC 벤치/NNG 돌리/VV 니/EC 문제없/VA 음/ETN 굳/VV 그런데/MAJ 궁금/XR 하/XSA ㄴ/ETM 것/NNB ㄴ/JX 다른/MM 곳/NNG 에서/JKB 반품/NNG 하/XSV 았/EP 던/ETM 그/MM 제품/NNG 도/JX 장우/NNP 컴퍼니/NNP AS/SL 스티커/NNG 가/JKS 붙/VV 어/EC 있/VX 었/EP 음/ETN 판매자/NNG 이름/NNG 은/JX 각자/MAG 다르/VA ㄴ데/EC 여기/NP 가/JKS 공식/NNG 이/VCP ㄴ/ETM 것/NNB ㄴ가/EF ./SF
+/SW
+쥐/NNG 막/MAG 최저가/NNG 와/JC 배송비/NNG 2500/SN 원/NNB 으로/JKB 겟/NNG 하/XSV 았/EP 습니다/EF ./SF
+항상/MAG 하드/NNG 공간/NNG 이/JKS 부족/NNG 하/XSV 아서/EC 시달리/VV 었/EP 는데/EC 이번/NNG 에/JKB 아주/MAG 속/NNG 시원/XR 하/XSA 게/EC 업그레이드/NNG 하/XSV 았/EP 습니다/EF ./SF
+메인보드/NNP 가/JKS 구형/NNG 이/VCP 라/EC 스펙/NNP 을/JKO 풀/NNG 로/JKB 뽑/VV 지/EC 는/JX 못하/VX 지만/EC 아주/MAG 만족/NNG 하/XSV ㅂ니다/EF ./SF
+기존/NNG 256/SN GB/SL SSD/SL 는/JX 2/SN 만/NR 냥/NNB 짜리/XSN 저렴/XR 이/NNP 외장/NNG 하나/NR 사/VV 아서/EC 외장/NNG 하드/NNP 로/JKB 재활용/NNG 하/XSV ㅂ니다/EF ./SF
+이/NNP 외장/NNG 하드/NNG 를/JKO 이용/NNG 하/XSV 아/EC 마/NNG 이/VCP 그레이/NNP 션/NNG 하/XSV 았/EP 습니다/EF ./SF
+삼성/NNP 앱/NNG 이/JKS 안/MAG 먹히/VV 어서/EC 씨/NNB 게이트/NNP 앱/NNG 으로/JKB 마/NNG 이/VCP 그레이/NNP 션/NNG 하/XSV 았/EP 는데/EC 외장/NNG 하드/NNP 가/JKS 케이블/NNG 이/JKS 알/VV ㄴ/ETM 좋아서/NNP 이/VCP ㄴ지/EC 3/SN 시간/NNG 이나/JC 걸리/VV 었/EP 습니다/EF ./SF
+그래도/MAJ 윈도우/NNG 부터/JX 설치/NNG 하/XSV 는/ETM 것/NNB 보다/JKB 는/JX 마/NNG 이/VCP 그레이/NNP 션/NNP 이/JKS 훨씬/MAG 편하/VA ㅂ니다/EF ./SF
+감사/NNG 하/XSV ㅂ니다/EF ./SF
+/SW
+tlc/SL 특성/NNG 상/XSN 초반/NNG 복사/NNG 는/JX 매우/MAG 빠르/VA 지만/NNP 대량/NNG 복사/NNG 시/XSN 에/JKB 속도/NNG 가/JKS 110/SN 이하/NNG 로/JKB 떨어지/VV ㅂ니다/EF ./SF
+용량/NNP 대비/NNG 매우/MAG 저렴/XR 하/XSA ㄴ/ETM 것/NNB 은/JX 맞/VV 는데/EC 삼성/NNP SSD/SL 이/VCP 라서/EC Samsung/SL Data/SL Migration/SL 툴/NNG 로/JKB 클로닝/NNP 이/JKS 쉽/VA 게/EC 되/VV ㄹ/ETM 것/NNB 이/VCP 라/EC 생각/NNG 하/XSV 았/EP 는데/EC 타겟/NNG 으로/JKB 인식/NNG 이/JKS 되/VV 지/EC 않/VX 는군요/EF ./SF
+결국/NNG 프리웨어/NNP 로/JKB 복사/NNG 하/XSV 느라/EC 시간/NNG 낭비/NNG 와/JC 고생/NNG 을/JKO 좀/MAG 하/VV 았/EP 습니다/EF ./SF
+결과/NNP 적/XSN 으로/JKB 부팅/NNP SSD/SL 로/JKB 만들/VV 지/EC 도/JX 못하/VX 았/EP 네요/EF ./SF
+그리고/MAJ 제품/NNG 의/JKG 문제/NNG 는/JX 아니/VCN 지만/EC 기존/NNG 제품/NNG 과/JC 동일/XR 하/XSA ㄴ/ETM 모델/NNG 이/VCP 라서/EC 부팅/NNP 시퀀스/NNP 설정/NNG 이나/JC 저장소/NNG 관리/NNG 하/XSV ㄹ/ETM 때/NNG 무지/MAG 헷갈리/VV 네요/EF ./SF
+단순/NNG 백업/NNP 용/XSN 이/JKS 아니/VCN 라면/EC OEM/SL 이/VCP ㄴ/ETM 아니/VCN ㄴ/ETM 삼성/NNP 정품/NNG 을/JKO 구매/NNG 하/XSV 시/EP 는게/EC 여러모로/MAG 마음/NNG 편하/VA ㄹ/ETM 것/NNB 같/VA 습니다/EF ./SF
+/SW
+오/VV 아/EC 배송/NNG 담날/NNG 에/JKB 바로/MAG 오/VV 네요/EF ./SF
+ssd/SL 10/SN 년/NNB 전/NNP 꺼/NNB 갸/NNG ㅇ/SO 쓰/VV 고/EC 있/VX 었/EP 는데/EF ./SF
+이정/NNP 도/JX 차이/NNG 가/JKS 날줄/NNG 은/JX 모르/VV 았/EP 네요/EF ./SF
+여/NNG 틀/VV ㄴ/ETM 마/NNG 이/VCP 그레이/NNP 션/NNP 도/JX 잘/MAG 되/XSV 었/EP 고요/EF ./SF
+게다가/MAG as/SL 2년/NNP 까지/JX 보장/NNG 하/XSV 아/EC 주/VX 는/ETM 업체/NNG 이/VCP 라/EC 좋/VA 네요/EF ./SF
+m/SL ./SP 2/SN 구/NR 매하/NNP 길/NNP 분/NNB 들/XSN 최저가/NNG 도/JX 좋/VA 지만/EC as/SL 2년/NNP 은/JX 꼭/MAG 확인/NNG 하/VV 시/EP 고/EC 구매/NNG 하/XSV 시/EP 길/NNP ./SF
+아참/IC m/SL ./SP 2/SN 고정/NNP 볼트/NNP 별도/NNG 로/JKB 안/MAG 주/VV 어요/EF ./SF
+초반/NNG 에/JKB 컴/NNG 터/NNB 구매/NNG 하/XSV 시/EP 었/EP 을/ETM 때/NNG 메인보드/NNP 구/XPN 성품/NNP 중/NNB m/SL ./SP 2/SN 고정/NNG 볼트/NNP 있/VV 으니까/EC 한번/MAG 찾아보/VV 세요/EF ./SF
+저/NP 도/JX 혹시나/MAG 하/VV 아서/EC 메인보드/NNP 박스/NNP 뒤지/VV 어/EC 보/VX 았/EP 더니/EC 3/SN 개/NNB 나/JX 있/VX 더라고요/EF ./SF
+이것/NP 고정/NNG 안/NNG 시키/XSV 면/EC 서머/NNP ㄹ/JKO 패드/NNP 가/JKS 균일/NNG 하/XSV 게/EC 닿/VV 지/EC ㄹ/JKO 않/VX 더라고요/EF ./SF
+/SW
+펌웨어/NNP GXA/SL 7401/SN Q/SL 버전/NNG 이/VCP ㄴ/ETM 제품/NNG 으로/JKB 발송/NNG 되/XSV 어서/EC 따로/MAG 펌웨어/NNP 업데이트/NNP 하/VV ㄹ/ETM 필요/NNG 가/JKS 없/VA 다는/ETM 게/EC 1/SN 차/NNB 적/XSN 으로/JKB 마음/NNG 에/JKB 들/VV 구요/EF ./SF
+발열/NNP 은/JX 메인보드/NNP 자체/NNG 방열/NNP 판/NNB 장착/NNG 하/XSV ㄴ/ETM 상태/NNG 에서/JKB 크리스탈/NNP 디스크/NNP 마크/NNP 돌리/VV 었/EP 을/ETM 때/NNG 맥스/NNP 50/SN 도/JX 찍/VV 네요/EF ./SF
+PCIE/SL 4/SN ./SP 0/SN SSD/SL 는/JX 처음/NNG 이/VCP 라/EC 걱정/NNG 하/XSV 았/EP 는데/EC 생각/NNG 하/XSV 았/EP 던/ETM 것/NNB 보다/MAG 양호/NNG 하/XSV 아서/EC 안심/NNG 하/XSV 았/EP 습니다/EF ./SF
+속도/NNG 는/JX 사진/NNG 보/VV 시/EP 면/EC 알/VV 시/EP 겠/EP 지만/EC 스펙/NNP 상/XSN 속도/NNG 확실히/MAG 나오/VV 아/EC 주/VX 네요/EF ./SF
+저렴/XR 하/XSA ㄴ/ETM 가격/NNG 에/JKB 잘살/VV ㄴ/ETM 것/NNB 같/VA 아서/EC 마음/NNG 에/JKB 드/VV ㅂ니다/EF ./SF
+/SW
+판매자/NNG 분/XSN 친절/NNG 하/XSV 시/EP 고/EC 배송/NNG 도/JX 하루만/NNP 에/JKB 도착/NNG 하/XSV 았/EP 어요/EF ./SF
+PS/SL 5/SN 용/XSN 으로/JKB 1/SN TB/SL 가격/NNG 이/JKS 많이/MAG 내리/VV 어서/EC 정품/NNG 대비/NNG AS/SL 2/SN 년/NNB 펌웨어/NNP 업데이트/NNP 불가/NNG 이/VCP 라는/ETM 불이익/NNG 을/JKO 감수/NNG 하/VV 고라도/EC 사용/NNG 하/XSV 아/EC 보/VX 니/EC 만족/NNG 하/XSV ㅂ니다/EF ./SF
+다만/MAG 최신/NNG 펌웨어/NNP GXA/SL 7601/SN Q/SL 이/VCP ㄴ데도/EC PS/SL 5/SN 와/JC 궁합/NNP 문제/NNG 이/VCP ㄴ지/EC 읽/VV 기/ETN 속도/NNP 는/JX 50505140/SN 정도/NNG 네/XSN 이/VCP 요/EF ./SF
+혹시/MAG 구입/NNG 하/XSV 시/EP 려는/ETM 분/NNB 들/XSN 참고/NNG 하/XSV 시/EP 구요/EF ./SF
+결론/NNG 적/XSN 으로/JKB PS/SL 5/SN 내장/NNG SSD/SL 와/JC 속도/NNG 차이/NNG 는/JX 조금/MAG 빠르/VA 거나/EC 체감/NNG 상/XSN 것/NNB 의/JKG 없/VA 다고/EC 생각/NNG 하/XSV 시/EP 면/EC 되/VV ㅂ니다/EF ./SF
+/SW
+지/NNG 텍/NNG 아이/NNG 유통/NNG AS/SL 2/SN 년/NNB 제품/NNG 으로/JKB 오/VV 았/EP 고요/EF ./SF
+22/SN 년/NNB 11/SN 월/NNB 46/SN 주차/NNP 생산/NNG 제품/NNG 으로/JKB 오/VV 아서/EC 기분/NNG 이/JKS 좋/VA 네요/EF ./SF
+Gen/SL 4/SN NVMe/SL 제품/NNG 답/XSA 게/EC 속도/NNG 도/JX 잘/MAG 나오/VV 고/EC 좋/VA 습니다/EF ./SF
+크리스탈/NNP 디스크/NNP 마크로/NNP 벤치마크/NNP 를/JKO 하/VV 았/EP 더니/EC 읽/VV 기/ETN 7000/SN mbs/SL 쓰/VV 기/ETN 5000/SN mbs/SL 정도/NNG 나오/VV 네요/EF ./SF
+플레이스테이션/NNP 5/SN 에서/JKB 도/JX 인식/NNG 잘/MAG 되/VV 고요/EF ./SF
+가/VX 성비/NNP 에서/JKB 이만/XR 하/XSA ㄴ/ETM 제품/NNG 이/JKS 없/VA 는/ETM 것/NNB 같/VA 습니다/EF ./SF
+또/MAG MSI/SL 메인보드/NNP 에/JKB 라이/NNP 제/XSN ㄴ/JX 5600/SN 시스템/NNG 이/VCP ㄴ데/EC 호환성/NNP 문제없이/MAG 잘/MAG 붙/VV 습니다/EF ./SF
+/SW
+이/MM 제품/NNG 은/JX 성능/NNP 저하/NNP 이슈/NNG 가/JKS 있/VV 어서/EC 21/SN 년/NNB 9/SN 월/NNB 이후/NNG 생산/NNG 라인/NNP 부터/JX 정상/NNG 최신/NNG 펌웨어/NNP 가/JKS 적용/NNG 되/XSV 어/EC 그/MM 문제/NNG 가/JKS 해결/NNG 되/XSV 기/ETN 때문/NNB 에/JKB 구매/NNG 후/NNG 문의/NNG 로/JKB 생산/NNG 일자/NNG 최신/NNG 부탁/NNG 하/XSV 고/EC 2022/SN 년/NNB 최신/NNG 주차/NNG 이/VCP ㅂ니다/EC 답변/NNG 까지/JX 받/VV 았/EP 는데/EC 21/SN 년/NNB 3/SN 월/NNB 제품/NNP 이/JKS 오/VV ㅁ/ETN 주말/NNG 까지/JX 끼/VV 고/EC 시간/NNG 만/JX 날림/NNG 고객/NNG 센터/NNG 는/JX 전화/NNG 도/JX 안받/VV 고/EC 자체/NNG 펌웨어/NNP 업/NNG 글/NNG 하/VV 려다가/EC 도/JX 보통/MAG B/SL 00/SN 넘버/NNP 로/JKB 끝나/VV 아야/EC 가능/NNG 하/XSV 다던데/EC 내/NP 가/JKS 받/VV 은/ETM 것/NNB ㄴ/JX BKS/SL 괜히/MAG 밀봉/NNG 뜯/VV 고/EC 문제/NNG 생기/VV 느니/EC 반품/NNG 하/XSV ㅁ/ETN 상품/NNP 대표/NNG 이미지/NNG 도/JX 흰색/NNG 상자/NNG 로/JKB 덮/VV 어/EC 버리/VX ㄴ/ETM 것/NNB 부터/NNG 가/JKS ./SF
+/SW
+사정/NNG 상/XSN 배송/NNG 이/JKS 늦/VA 긴/EC 하/VX 았/EP 지만/EC 문자/NNG 안내/NNG 도/JX 해주시/NNP 이/VCP 고/EC 포장/NNG 도/JX 나쁘/VA 지/EC 않/VX 았/EP 네요/EF ./SF
+지금/MAG 노트북/NNG 에/JKB 장착/NNG 하/XSV 아/EC 잘/MAG 사용/NNG 중/NNB 이/VCP ㅂ니다/EF ./SF
+펌웨어/NNP 압/NNG 데이트/NNP 없이/MAG 사용/NNG 예정/NNG 이/VCP 구요/EF ./SF
+속도/NNG 는/JX PCIe/SL 3/SN ./SP 04/SN 에/IC 사용/NNG 중/NNB 이/VCP ㅂ니다/EC 100/SN 속도/NNG 는/JX 아니/VCN 지만/EC 체감/NNG 은/JX 별/MM 차이/NNP 없/VA 어요/EF ./SF
+준수/XR 하/XSA ㄴ/ETM 성능/NNG 이/VCP 니/EC 다른/MM 분/NNB 께/JKB 추천/NNG 하/XSV ㅂ니다/EC 대박/NNP 나세/NNP 요/JX ./SF
+/SW
+윈도우/NNG 11/SN 에서/JKB 인식/NNG 안/NNG 되/XSV ㅁ/ETN ./SF
+Bios/SL 에/JKB 는/JX 보이/VV 나/EC 윈도우/NNG 의/JKG 디스크/NNG 관리/NNG 에/JKB 는/JX 안보/NNG 이/VCP ㅁ/ETN ./SF
+드라이버/NNG 를/JKO 재/XPN 설치/NNG 하/XSV 며/EC 한참/NNG 을/JKO 씨름/NNG 하/XSV 다가/EC 마지막/NNG 으로/JKB 윈도우/NNG 10/SN 으로/JKB 다운/NNP 그레이드/NNP 하/VV 니/EC 잘/MAG 인식/NNG 되/XSV ㅁ/ETN ./SF
+현재/MAG 윈도우/NNG 10/SN 으로/JKB 사용/NNG ./SF
+속도/NNG 는/JX 빠르/VA ㄴ/ETM 느낌/NNG ./SF
+사용/NNG PC/SL 는/JX AMD/SL 5600/SN 기가바이트/NNP B/SL 550/SN 칩셋/NNP 메인보드/NNP ./SF
+드라이버/NNP 문제/NNG 인지/NNG 윈도우/NNG 11/SN 문제/NNG 이/VCP ㄴ지/EC ./SF
+/SW
+정품/NNG 은/JX 아니/VCN 지만/EC 가격/NNG 이/JKS 만만/XR 하/XSA 지/EC 가/JKS 않/VX 아서/EC 벌크/NNG 제품/NNG 으로/JKB 구매/NNG 하/XSV 았/EP 어요/EF ./SF
+전/NNG 에/JKB 구매/NNG 하/XSV ㄴ/ETM 정품/NNG 이나/JC 벌크/NNG 사용/NNG 하/XSV 아/EC 오/VX 았었/EP 는데/EC 크/VA 게/EC 고/XPN 장난/NNG 적/XSN 이/JKS 없/VA 어서/EC 가격/NNG 싸/VA ㄴ/ETM 벌크/NNG 제품/NNG 을/JKO 구매/NNG 하/XSV 았/EP 는데/EC 지금/NNG 까지/JX 4/SN 번/NNB 구매/NNG 이/VCP ㄴ데/EC 고장/NNG 없/VA 어서/EC 좋/VA 네요/EF ./SF
+카드/NNG 할인/NNG 으로/JKB 싸/VV 게/EC 구매/NNG 하/XSV 아서/EC 만족/NNG 하/XSV 아요/EF ./SF
+그리고/MAJ as/SL 2/SN 년/NNB 이/VCP 고/EC 만족/NNG 하/XSV 네요/EF ./SF
+자/VV ㄹ/ETM 쓰/VV 겠/EP 습니다/EF ./SF
+/SW
+사용/NNG 중/NNB 이/VCP ㄴ/ETM 노트북/NNG 이/JKS M.2/NNP SATA/SL 120/SN GB/SL 로/JKB 용량/NNG 이/JKS 부족/NNG 하/XSV 아서/EC 새로이/MAG 노트북/NNG 을/JKO 살/VV ㄹ까/EC 하/VV 다가/EC 1/SN TB/SL SSD/SL 를/JKO 구매/NNG 하/XSV 아서/EC 교체/NNG 하/XSV 았/EP 더니/EC 용량/NNG 문제/NNG 가/JKS 해결/NNG 되/VV 었/EP 습니다/EF ./SF
+배송/NNG 도/JX 빠르/VA 고/EC 제품/NNG 도/JX 23/SN 년/NNB 1/SN 월/NNB 생산품/NNG 이/VCP 네요/EF ./SF
+사진/NNG 은/JX 노트북/NNG 에/JKB 장착/NNG 하/XSV ㄴ/ETM 것/NNB 이/VCP ㅂ니다/EF ./SF
+/SW
+병행/NNG 수입/NNG 이/VCP 라서/EC 쓰/VV 다가/EC 뻑/NNG ./SF
+끝/NNG ./SF
+하지만/MAJ 이/MM 가격/NNG 으로/JKB 980/SN Pro/SL 의/JKG 향기/NNG 를/JKO 맡/VV 을/ETM 수/NNB 있/VX 습니다/EF ./SF
+제품/NNP 포장/NNG 이/JKS 정말/MAG 이/VCP 지/EC 기대/NNG 이/NNG 하/XSV 더군요/EF ./SF
+그냥/MAG 대충/MAG ./SF
+너무/MAG 하/VV 는/ETM 것/NNB 아냐/NNP PC/SL 나/JC 랩탑/NNG 내부/NNG 에/JKB 장착/NNG 하/XSV 면/EC 괜찮/VA 은데/EC 외장/NNG 케이스/NNG 에/JKB 넣/VV 어서/EC 하/VV 면/EC 별로/MAG 더군요/EF ./SF
+역시/MAG 나/JX C/SL to/SL C/SL C/SL to/SL A/SL 케이블/NNG 의/JKG 문제/NNG 로/JKB 보이/VV ㅂ니다/EF ./SF
+정말/MAG 슬프/VA 다는/ETM ./SF
+/SW
+처음/NNG 에/JKB 은박지/NNG 포장/NNG 이/VCP 라/EC 놀라/VV 았/EP 어요/EF ./SF
+슬롯/NNG 에/JKB 사용/NNG 흔적/NNG 이/JKS 없/VA 어/EC 병행/NNG 수입/NNG 벌크/NNG 이/VCP 라/EC 생각/NNG 하/XSV 고/EC 방/NNG 엷/VA 판/NNP 설치/NNG 후/NNG PS/SL 5/SN 에/JKB 달/VX 았/EP 습니다/EF ./SF
+초기/NNG 속도/NNG 는/JX 5600/SN mbs/SL 로/JKB 기억/NNG 하/XSV ㅂ니다/EF ./SF
+ps/SL 5/SN 요구사항/NNP 이/JKS 5500/SN mbs/SL 이/VCP 니/EC 적절/XR 하/XSA 지만/EC 스펙/NNP 보다/JKB 는/JX 떨어지/VV 네요/EF ./SF
+검색/NNP 해보/VV 니/EC ps/SL 5/SN 에서/JKB 낮/VA 게/EC 나오/VV ㄴ다는/ETM 사람/NNG 이/JKS 쾌/NNB 있/VX 네요/EF ./SF
+암튼/MAG 잘/MAG 쓰/VV 겠/EP 습니다/EF ./SF
+/SW
+10/SN 만/NR 아래/NNG 최저/NNG 가/JKS 뜨/VV 어서/EC 지름신/NNP 강림/NNG 하/XSV 아/EC 바로/MAG 구매/NNG 하/XSV 았/EP 습니다/EC 보드/NNP 가/JKS 아직/MAG 오/VV 지/EC 않/VX 아/EC 다른/MM 컴/NNG 에서/JKB 잠깐/MAG 테스트/NNG 해보/VV 았/EP 는데/EC 읽/VV 기/ETN 쓰/VV 기/ETN 성능/NNP 양호/NNG 하/XSV 게/EC 잘나/VA 옵니다/EC 뽁뽁이/NNP 여러/MM 겹/NNG 으로/JKB 충격/NNG 에/JKB 잘/MAG 버티/VV ㄹ/ETM 수/NNB 있/VX 게/EC 포장/NNG 잘되/VV 어서/EC 받/VV 았/EP 네요/EF ./SF
+가격/NNP 대비/NNP 정말/MAG 만족/NNG 하/XSV ㅂ니다/EC 병행/NNG 이/VCP 라/EC nvme/SL 뒷면/NNG 에/JKB as/SL 유/NNP 통사/NNP 스트/NNG 커/NNP 가/JKS 붙/VV 어/EC 있/VV 는데/EC 혹시/MAG 모르/VV ㄹ/ETM as/SL 는/JX 어디/NP ㄴ지/EC 모르/VV 겠/EP 네요/EF ./SF
+/SW
+메모리/NNP 처럼/JKB 은박지/NNG 에/JKB 포장/NNG 되/VV 어/EC 오/VV 아서/EC 좀/MAG 놀라/VV 았/EP 지만/EC 뽁뽁이/NNP 에/JKB 박스/NNG 까지/JX 포장/NNG 되/VV 어/EC 있/VX 어/EC 누구/NP 가/JKS 밟/VV 거나/EC 하/VV 지/EC 않/VX 는/ETM 이상/NNG 제품/NNG 망가지/VV ㄹ/ETM 일/NNG 은/JX 없/VA 어/EC 보이/VV 니/EC 포장/NNG 은/JX 괜찮/VA 은/ETM 것/NNB 같/VA 구요/EF ./SF
+3/SN R/SL 방열/NNP 판/NNB 사/VV 아서/EC 결합/NNG 후/NNG 장착/NNG 하/VV 았/EP 는데/EC 성능/NNG 도/JX 좋/VA 고/EC 맘/NNG 에/JKB 들/VV 네요/EF ./SF
+저렴/XR 하/XSA 게/EC 잘/MAG 사/VV 았/EP 어요/EF ./SF
+/SW
+m/SL ./SP 2/SN 많이/MAG 사용/NNG 하/XSV 아/EC 보/VV 았/EP 지만/EC 빡/MAG 난/NNG 적/XSN 한번/NNG 도/JX 없/VA 었/EP 음/EF ./SF
+가/VX 성비/NNP 최고/NNG 의/JKG 제품/NNG 이/JKS 삼성/NNP 병행/NNG m/SL ./SP 2/SN 임/NNP ./SF
+하드/NNP 물리/NNG 오류/NNG 나서/VV 어/EC 이제/NNG 는/JX ssd/SL 제품/NNG 으로/JKB 넘어가/VV 려고/EC 구매/NNG 하/VV ㅁ/ETN ./SF
+자료/NNP 저장/NNG 용/XSN 으로/JKB 사용/NNG 하/XSV 지/EC 위하/VV 아/EC 구매/NNG 하/VV 았/EP 는데/EC 기/ETN 존/NNP PCLe/SL 3/SN 2/SN 테라/NNP 제품/NNG 사용/NNG 중/NNB 이/VCP ㄴ데/EC 4/SN 를/JKO 세컨/NNG 으로/JKB 사용/NNG 예정/NNG 4/SN 가/JKS 가격/NNG 이/JKS 저렴/XR 하/XSA 면/EC 나중/NNG 에/JKB 더크/NNP ㄴ/JX 용/NNG 을/JKO 구매/NNG 예정/NNG ./SF
+/SW
+인식/NNG 이/JKS 안/MAG 되/VV 어서/EC 바이오스/NNP 도/JX 업/NNG 데/NNB ㅅ/JKG 해보/VV 고/EC 드라이버/NNP 도/JX 손보/VV 아도/EC 안/MAG 되/VV 어서/EC 검색/NNG 하/XSV 아/EC 보/VX 니/EC B/SL 550/SN 에/JKB 비슷/XR 하/XSA ㄴ/ETM 케이스/NNG 가/JKS 여럿/NNG 있/VX 었/EP 음/EF ./SF
+제품/NNP 문제/NNG 이/VCP ㄴ건지/EC 궁합/NNP 문제/NNG 인/NNG 건지/VV 는/ETM 모르/VV 겠/EP 지만/EC PS/SL 5/SN 에/JKB 꼽/VV 아서/EC 포맷/NNG 하/XSV 고/EC 그것/NP 다시/MAG 옮기/VV 어/EC 오/VV 니/EC 인식/NNG 이/JKS 되/VV ㅁ/ETN ./SF
+타/NNP PS/SL 에서/JKB 포맷/NNG 하/XSV 고/EC 꼽/VV 아도/EC 인식/NNG 되/VV ㄹ/ETM 것/NNB 으로/JKB 봄/NNG ./SF
+B/SL 550/SN 보드/NNP 사용자/NNP 중/NNB 비슷/XR 하/XSA ㄴ/ETM 증상/NNG 있/VV 으면/EC TRY/SL ./SF
+/SW
+8/SN 월/NNB 구입/NNG 후/NNG 9/SN 월/NNB 에/JKB 읽/VV 기/ETN 속도/NNP 반토막/NNG 으로/JKB 새/MM 제품/NNP 교체/NNG 10/SN 월/NNB 에/JKB 또/MAG 속도/NNG 반토막/NNG ./SF
+커뮤니티/NNG 를/JKO 보/VV 니까/EC 펌웨어/NNP 업/NNG 데/VV ㅅ/EF 으로/JKB 해결/NNG 하/XSV 아야/EC 하/VV ㄹ/ETM 문제/NNG 이/VCP 지만/EC 전신/NNP 이/VCP ㄴ/ETM 980/SN 프로/NNB 는/JX 삼성/NNP 에서/JKB 펌웨어/NNP 업/NNG 데/VV ㅅ/EF 을/JKO 하/VV 았/EP 더라구요/EF ./SF
+이것/NP ㄴ/JX OEM/SL 이/VCP 라서/EC 펌웨어/NNP 업/NNG 데/NNB ㅅ/JKG 이/NNP 안되/VA ㅂ니다/EF ./SF
+반토막/NNG 나/VV ㄴ게/EC 한두/MM 분/NNB 이/JKS 아니/VCN 니/EC 참/VV 고/EC 하/VV 시/EP 길/NNP ./SF
+온도/NNG 는/JX 방열/NNP 판/NNB 끼/VV 어서/EC 3740/SN 도로/NNP 유지/NNG 중/NNB 이/VCP ㅂ니다/EF ./SF
+/SW
+이렇게/MAG 작/VA 은지/NNP 도/JX 모르/VV 고/EC 제품/NNG 안/MAG 오/VV 았/EP 다고/EC 글/NNG 남기/VV 었/EP 었/EP 네요/EF ./SF
+에어/NNP 캡/NNG 포장/NNG 안/NNG 에/JKB 은박지/NNG 포장/NNG 으로/JKB 들/VV 어/EC 있/VX 습니다/EF ./SF
+제품/NNG 은/JX 잘/MAG 도착/NNG 하/XSV 았/EP 고/EC 제조/NNG 이/VCP ㄹ/ETM 21/SN 년/NNB 10/SN 월/NNB 이/VCP ㅂ니다/EF ./SF
+AS/SL 스티커/NNG 는/JX 잘/MAG 붙/VV 어/EC 있/VX 습니다/EF ./SF
+저렴/XR 하/XSA 게/EC 잘/MAG 장만/NNG 하/XSV 았/EP 고/EC 다시/MAG 고이/MAG 포장/NNG 하/XSV 아서/EC 넣/VV 어/EC 두/VX 었/EP 습니다/EF ./SF
+주말/NNG 에/JKB 본체/NNG SSD/SL 교체/NNG 작업/NNG 하/VV 아야/EC 하/VX 겠/EP 습니다/EF ./SF
+/SW
+보드/NNP 가/JKS pcie/SL 3/SN ./SP 0/SN 이/VCP 라/EC 제대로/MAG 되/XSV ㄴ/ETM 속도/NNG 는/JX 안/MAG 나오/VV 지만/EC 이/MM ssd/SL 추천/NNG 하/XSV ㅂ니다/EF ./SF
+현시점/NNG 가/VX 성비/NNP 최고/NNG 이/VCP ㄴ/ETM 것/NNB 같/VA 습니다/EF ./SF
+보드/NNP 만/JX 받치/VV 어/EC 주/VX ㄴ다면/EC 6000/SN 넘기/VV ㄹ/ETM 것/NNB 같/VA 네요/EF ./SF
+상품/NNG 잘/MAG 받/VV 았/EP 습니다/EF ./SF
+배/NNP 송도/NNP 빠르/VA 구요/EC ./SF
+그런데/MAJ 박스/NNG 에/JKB 좀/MAG 담/VV 아/EC 주/VX 시/EP 어요/EF ./SF
+이번/NNG 이/JKS 두/MM 번째/NNB 주문/NNG 이/VCP ㄴ데/EC 또/MAG 그냥/MAG 뽁뽁이/NNP 로/JKB 오/VV 았/EP 네요/EF ./SF
+옥션/NNP 만/JX 이용/NNG 하/XSV 는데/EF ./SF
+/SW
+시노/NNP ㄹ/JKO 로지/NNP 장비/NNG 에/JKB 작업/NNG 용/XSN 으로/JKB 사용/NNG 하/XSV 지/EC 위하/VV 아/EC 구입/NNG 하/XSV 았/EP 습니다/EF ./SF
+그래도/MAJ 1/SN 테라/NNP 이/VCP ㄴ데/EC 플라스틱/NNP 케이스/NNP 도/JX 없이/MAG 알루미늄/NNP 호일/NNP 을/JKO 씌우/VV 고/EC 뽁뽁이/NNP 로/JKB 감/VV 아/EC 박스/NNG 에/JKB 넣/VV 어/EC 배송/NNG 되/XSV 어/EC 허접/XR 하/XSA ㄴ/ETM 감/NNG 이/JKS 있/VV 는데/EC 내용물/NNG 을/JKO 좋/VA 네요/EF ./SF
+2023/SN ./SP 1월/NNP 금년/NNG 제조/NNG 제품/NNG 은/JX 처음/NNG 사용/NNG 하/XSV 는/ETM 것/NNB 같/VA 습니다/EC 장비/NNG 에/JKB 연결/NNG 하/XSV 았/EP 더니/EC 전원/NNG 켠/NNB 시간/NNP 0/SN 로/JKB 나오/VV ㅂ니다/EF ./SF
+처음/NNG 보/VV 네요/EF ./SF
+0/SN 시간/NNG 은/JX ./SF
+/SW
+지금/NNG 이/JKS 제일/MAG 저렴/XR 하/XSA 다고/EC 생각/NNG 하/XSV 고/EC 구입/NNG 하/XSV 았/EP 어요/EF ./SF
+AS/SL 도/JX 2/SN 년/NNB 보증/NNG 도/JX 되/VV 니/EC 안/MAG 살/VV 이유/NNP 가/JKS 없/VA 죠/EC 성능/NNP 도/JX 진짜/MAG 최고/NNG 이/VCP ㅂ니다/EF ./SF
+980/SN pro/SL 가격/NNG 보/VV 면/EC 이것/NP ㄴ/JX 진짜/MAG 선녀/NNG 이/VCP 죠/EC 하이닉스/NNP 제품/NNG 도/JX 가격/NNG 보/VV 면/EC 이것/NP ㄴ/JX 묻/NNG 따로/MAG 구입/NNG 하/XSV 아야/EC 되/VV ㅂ니다/EC 언제/MAG 다시/MAG 비싸/VA 아/EC 지/VX ㄹ지/EC 도/JX 모르/VV 니까요/EF ./SF
+전/NNG 에/JKB 500/SN 기가/NNP 가격/NNG 으로/JKB 1/SN T/SL 를/JKO 사/VV 게/EC 되/VV 네요/EF ./SF
+/SW
+좋/VA 은/ETM 제품/NNG 같/VA 은데/EC 삼성/NNP 마/NNG 이/VCP 그레이/NNP 션/NNP 이/MM 지원/NNG 을/JKO 하/VV 지/EC 않/VX 는/ETM 것/NNB 이/JKS 아쉽/VA 네요/EF ./SF
+Macrium/SL Reflect/SL 로/JKB 복제/NNG 하/XSV 아/EC 사용/NNG 하/XSV 고/EC 있/VV 는데/EC 부팅/NNP 속도/NNG 가/JKS 엄청/MAG 느리/VA 고/EC 버퍼링/NNG 이/MM 심하/VA 네요/EF ./SF
+시간/NNG 내/VV 어서/EC 윈도/NNP 새로/MAG 깔/VV 아서/EC 쓰/VV 어야겠/EP 네요/EF ./SF
+어차피/MAG 병행/NNG 이/NP 이/VCP 라/EC 각오/NNG 는/JX 하/VV 았/EP 으니까요/EF ./SF
+/SW
+1/SN T/SL 2/SN 개/NNB 구매/NNG 하/XSV 았/EP 습니다/EF ./SF
+일단/MAG 판매자/NNG 가/JKS 펌웨어/NNP 관련/NNG 답변/NNG 을/JKO 안/NNG 하/XSV 아/EC 주/VX ㅂ니다/EF ./SF
+이해/NNG 하/XSV ㅂ니다/EF ./SF
+하/VV 았/EP 다가/EC 문제/NNG 생기/VV 면/EC 반품/NNG 하/XSV ㄹ테니까요/EF ./SF
+만약/NNG 다시/MAG 주문/NNG 을/JKO 하/VV ㄴ다면/EC 돈/NNG 을/JKO 더/MAG 주/VX 고라도/EC 이/MM 판매자/NNG 에게/JKB 구매/NNG 하/XSV ㄹ/ETM 것/NNB ㅂ니다/EF ./SF
+펌웨어/NNP 가/JKS 잘/MAG 되/XSV 는/ETM 버전/NNG 으로/JKB 팔/VV 고/EC 있/VX 거든요/EF ./SF
+7801/SN Q/SL 펌/NNG 업/NNG 하/XSV 고/EC 갤럭시/NNP 북/NNP 3/SN 프로/NNB 에/JKB 장착/NNG 하/XSV 아/EC 사용/NNG 중/NNB 이/VCP ㅂ니다/EF ./SF
+이제/NNG 는/JX 오래/MAG 사용/NNG 하/XSV 아/EC 길/NNG 바라/VV ㄹ/ETM 뿐/NNB 이/VCP ㅂ니다/EF ./SF
+/SW
+제품/NNG 수령/NNG 하/XSV 고/EC 포장/NNG 열어보/VV 니/EC 제품/NNG 설명/NNG 의/JKG 수입사/NNG 가/JKS 아니/VCN ㄴ/ETM 다른/MM 곳/NNG 이/VCP 네요/EF ./SF
+nvme/SL 가/JKS 잘/MAG 고장나/VV 는/ETM 것/NNB 이/JKS 아니/VCN 라/EC 그냥/MAG 쓰/VV 렵니다/EC 제조/NNP 일/NNB 이/JKS 23/SN 년/NNB 2/SN 월/NNB 로/JKB 펌웨어/NNP 가/JKS 7601/SN Q/SL 이/VCP 라/EC 장착/NNG 하/XSV 자마자/EC 7801/SN Q/SL 로/JKB 올리/VV 었/EP 습니다/EC 벤치/NNP 돌리/NNP 이/VCP 니/EC 이미/MAG 쓰/VV 고/EC 있/VX 는/ETM 980/SN pro/SL 와/JC 비등/XR 하/XSA ㄴ/ETM 성능/NNG 을/JKO 보이/VV 어/EC 주/VX 어서/EC 매우/MAG 만족/NNG 하/XSV ㅂ니다/EF ./SF
+/SW
+아이/NNG 노트북/NNG 추가/NNG 하드/NNG 구매/NNG 하/VV 았/EP 네요/EF ./SF
+좋/VA 은/ETM 가격/NNG 에/JKB 좋/VA 은/ETM 제품/NNG 사/VV 았/EP 습니다/EF ./SF
+병행/NNG 수입품/NNG 이/VCP 라/EC 은박지/NNG 에/JKB 싸이/VV 어/EC 오/VV 았/EP 는데/EC 워낙/MAG 에어/NNP 갭/NNG 을/JKO 둘둘/MAG 잘/MAG 말/VX 아/EC 주/VX 시/EP 어서/EC 걱정/NNG 이/JKS 되/VV 지/EC 는/JX 않/VX 습니다/EF ./SF
+제품/NNG 에/JKB AS/SL 2/SN 년/NNB 이/VCP 라고/EC 붙/VV 어/EC 있/VV 습니다/EC 추/NNP 가/JKS 장착/NNG 후/NNG 잘/MAG 동작/NNG 하/XSV 는/ETM 것/NNB 까지/JX 확인/NNG 완료/NNG 하/XSV 았/EP 습니다/EF ./SF
+/SW
+작동/NNG 잘/MAG 되/XSV ㅂ니다/EF ./SF
+pcie/SL 3/SN ./SP 0/SN 이/VCP 라/EC 속도/NNG 가/JKS 3500/SN 3500/SN 밖/NNG 에/JKB 안/MAG 나오/VV 네요/EF ./SF
+그런데/MAJ 아무리/MAG 벌크/NNG 이/VCP 라/EC 하/VX 지만/EC 나사/NNP 정도/NNG 는/JX 주/VX 어야/EC 하/VV 는게/EC 아니/VCN ㄴ가/EC 싶/VX 습니다/EF ./SF
+mvme/SL 처음/NNG 사용/NNG 하/XSV 는/ETM 것/NNB 이/VCP 라/EC 나사/NNP 가/JKS 없/VA 어서/EC 고정/NNG 도/JX 못/MAG 시키/XSV 기/ETN 이/VCP 고/EC 하/VV 다가/EC 고장나/VV ㄴ/ETM 노트북/NNP 뜯/VV 어서/EC 거기/NP 서/JKB 나사/NNP 빼/VV 어서/EC 쓰/VV 었/EP 네요/EF ./SF
+/SW
+빠르/VA ㄴ/ETM 배송/NNG 우선/MAG 감사드리/VV ㅂ니다/EF ./SF
+제품/NNG 성능/NNG 이상/NNG 없이/MAG 잘/MAG 작동/NNG 하/XSV 아/EC 만족/NNG 하/XSV ㅂ니다/EF ./SF
+구형/NNG 제품/NNG 보다/JKB 속도/NNG 도/JX 빠르/VA ㄴ/ETM 것/NNB 같/VA 은데/EC 제/NP 가/JKS 구형/NNG 기기/NNG 들/XSN 을/JKO 가지/VV 고/EC 있/VV 어/EC 차후/NNG 더/MAG 빠르/VA ㄴ/ETM 읽/VV 기/ETN 쓰/VV 기/ETN 속도/NNG 를/JKO 지원/NNG 하/XSV 는/ETM 것/NNB 에서/JKB test/SL 해/NNG 보/VV 고/EC 싶/VX 습니다/EF ./SF
+많이/MAG 판매/NNG 하/XSV 시/EP 어요/EF ./SF
+/SW
+빅스/NNP 마일/NNP 데이/NNP 를/JKO 맞/VV 아/EC 쿠폰/NNG 쓰/VV 고/EC 11/SN 만원/NNP 대/NNB 에/JKB 구입/NNG 하/XSV 았/EP 습니다/EF ./SF
+용도/NNG 는/JX PS/SL 5/SN 확장/NNG 용/XSN 이/VCP ㄴ데/EC 980/SN pro/SL OEM/SL 버전/NNP 이/VCP 라/EC 좀더/MAG 저렴/XR 하/XSA ㄴ/ETM 것/NNB 로/JKB 선택/NNG 하/XSV 았/EP 네요/EF ./SF
+배송/NNG 은/JX 3/SN 일/NNB 걸리/VV 었/EP 고/EC 포장/NNG 은/JX 병행/NNG 수입/NNG 이/VCP 라/EC 은박지/NNG 에/JKB 싸/VA 오니/NNP 엉성/XR 하/XSA 기/ETN ㄴ/JX 하/VV 지만/EC 정보/NNG 확인/NNG 하/XSV 아/EC 보/VX 니/EC 이상/NNG 없/VA 고/EC 새/MM 제품/NNP 은/JX 맞/VV 습니다/EF ./SF
+PS/SL 5/SN 에/JKB 꼽/VV 으니/EC 인식/NNG 도/JX 잘/MAG 되/XSV 고/EC 작동/NNG 이상/NNG 도/JX 없/VA 습니다/EF ./SF
+/SW
+배송/NNG 빠르/VA 고/EC 23/SN 년/NNB 1월/NNP 제품/NNG 이/VCP 네요/EF ./SF
+받/VV 자마자/EC 7601/SN 버전/NNP 이/VCP 라/EC 설치/NNG 하/XSV 고/EC 펌웨어/NNP 7801/SN q/SL 버전/NNP 설치/NNG 하/XSV 았/EP 습니다/EF ./SF
+기존/NNG 노트북/NNP c/SL 드라이브/NNP 는/JX 같/VA 은/ETM 기종/NNG 512/SN 이/VCP 었/EP 는데/EC 보/VX 조로/NNP 1/SN 테라/NNP 설치/NNG 하/XSV 니/EC 좋/VA 네요/EF ./SF
+저렴/XR 하/XSA 게/EC 잘/MAG 사/VV 아서/EC 기분좋/VA 습니다/EF ./SF
+/SW
+병행/NNG 수입/NNG 제품/NNG 이/VCP 라/EC 박스/NNG 가/JKS 없/VA 을텐데/EC 세상/NNG 에/JKB 제품/NNG 보호/NNG 를/JKO 위하/VV 아서/EC 5/SN 겹/NNG 으로/JKB 포장/NNG 하/XSV 아서/EC 보내/VV 시/EP 었/EP 더군요/EF ./SF
+하나/NR 를/JKO 보/VV 면/EC 열/NNG 을/JKO 알/VV ㄴ다고/EC 대박/NNG 나/VV 시/EP ㅂ시요/EF ./SF
+초심/NNP 만/JX 변하/VV 지/EC 않/VX 으면/EC 사장/NNG 님/XSN 대성/NNG 하/XSV 시/EP ㄹ/ETM 것/NNB 이/VCP 에요/EF ./SF
+별/MM 5/SN 개/NNB 밖/NNG 에/JKB 못/MAG 들리/VV 는게/EC 천추/NNG 의/JKG 한/NNG 이/VCP 네요/EF ./SF
+마음/NNG 같/VA 아서/EC 는/JX 99/SN 개/NNB 보내/VV 어/EC 드리/VX 고/EC 싶/VX 습니다/EF ./SF
+/SW
+Orico/SL 20/SN Gbps/SL 외장/NNG 케이스/NNG 에/JKB 장착/NNG 하/XSV 아서/EC 잘/MAG 쓰/VV 고/EC 있/VX 습니다/EF ./SF
+펌웨어/NNP 업/NNG 되/VV ㄴ/ETM 제품/NNG 이/VCP 라/EC 충돌/NNG 같/VA 은/ETM 것/NNB 전혀/MAG 없/VA 었/EP 고/EC 외장/NNG 케이스/NNP usbC/SL 연결/NNG 하/XSV 아/EC 7/SN GB/SL 파일/NNG 을/JKO c/SL 디스크/NNP nvme/SL 로부터/JKB 외장/NNG 으로/JKB 복사/NNP 쓰기/NNP 해보/VV 니/EC 최대/NNG 267/SN MBs/SL 속도/NNG 나오/VV 았/EP 습니다/EF ./SF
+크리스탈/NNP 벤치/NNP 에서/JKB 는/JX R/SL 430/SN W/SL 440/SN MBs/SL 나오/VV 았/EP 습니다/EF ./SF
+/SW
+포장/NNG 및/MAG 배송/NNG 만족/NNG 하/XSV 고/EC PCIe/SL 4/SN ./SP 0/SN x/SL 4/SN 맞/VV 습니다/EF ./SF
+발/NNG 영/NNG 량/XSN 이/JKS 많/VA 은/ETM 제품/NNG 이/VCP 라/EC 히트/NNG 씽크/NNG 장착/NNG 은/JX 것/NNB 의/JKG 필수/NNG 이/VCP ㄴ/ETM 제품/NNG 이/VCP 고/EC 파일/NNG 카피/NNG 중/NNB 이/VCP ㄴ데도/EC 온도/NNG 가/JKS 적당/XR 수준/NNG 을/JKO 유지/NNG 하/XSV ㅂ니다/EF ./SF
+속도/NNP 는/JX PM/SL 981/SN a/SL PCIe/SL 3/SN ./SP 0/SN x/SL 4/SN 대비/NNP 2/SN 배/NNP 속도/NNG 를/JKO 보여주/VV ㅂ니다/EF ./SF
+/SW
+사용/NNG 하/XSV ㄴ/ETM 범용/NNG 마/NNG 이/VCP 그레이/NNP 션/NNP SW/SL 에서/JKB 파티션/NNP 4K/NNP 정렬/NNG 을/JKO 자동/NNG 으로/JKB 하/VV 아/EC 주/VX 지/EC 않/VX 아/EC 제품/NNG 불량/NNG 이/JKS 의심/NNG 되/XSV ㄹ/ETM 정도/NNG 로/JKB 성능/NNG 이/JKS 안/MAG 나오/VV 는/ETM 현상/NNG 해결/NNG 하/XSV 느라/EC 구매/NNG 결정/NNG 이/JKS 늦/VA 었/EP 습니다/EF ./SF
+AS/SL 1/SN 년/NNB 하/VV 아/EC 주/VX 는/ETM 곳/NNG 이/JKS 작/VA 은/ETM 용산/NNP 매장/NNG 수준/NNG 의/JKG 생소/XR 하/XSA ㄴ/ETM 소규모/NNG 업체/NNG 이/VCP ㄴ/ETM 것/NNB ㄴ/JX 조금/MAG 아쉽/VA 네요/EF ./SF
+/SW
+이/NP 로/JKB 완벽/NNG 포장/NNG 되/XSV 어/EC 안전/NNG 하/XSV 게/EC 잘/MAG 받/VV 았/EP 어요/EF ./SF
+기/ETN 존/NNP 윈도우/NNG 백업/NNG 하/XSV 아서/EC 메인/NNG 으로/JKB 사용/NNG 중/NNB 이/VCP ㅂ니다/EC 별다르/VA ㄴ/ETM 문제/NNG 없이/MAG 사용/NNG 중/NNB 이/VCP 구요/EF ./SF
+벌크/NNG 재/XPN 품이/NNP 이/VCP 라/EC 저렴/XR 하/XSA ㄴ/ETM 방열/NNP 판/NNB 같이/MAG 구매/NNG 해서/NNP 사용/NNG 하/XSV 면/EC 좋/VA 을/ETM 것/NNB 같/VA 네/EC 이/VCP 어/EC 전/NNP 메인보드/NNP 에/JKB 방열/NNP 판/NNB 이/JKS 있/VV 는/ETM 보/VV 드라/EC 따로/MAG 구매/NNG 는/JX 안/NNG 하/XSV 았/EP 네요/EF ./SF
+/SW
+좋/VA 은/ETM 상품/NNG 을/JKO 저렴/XR 하/XSA ㄴ/ETM 가격/NNG 으로/JKB 구매/NNG 하/XSV 았/EP 습니다/EF ./SF
+도착/NNG 하/XSV 자/EC 말/VX 자/EC 바로/MAG 설치/NNG 하/XSV 고/EC 빠릿빠릿/XR 하/XSA ㄴ/ETM 성능/NNG 을/JKO 느끼/VV 며/EC 잘/MAG 사용/NNG 하/XSV 고/EC 있/VX 습니다/EF ./SF
+세상/NNG 좋/VA 아/EC 지/VX 었/EP 습니다/EF ./SF
+무려/MAG 1/SN 테라/NNP 를/JKO 9/SN 만/NR 원/NNB 도/JX 안주/NNG 이/VCP 고/EC 사/VV 다니/EF ./SF
+필요/NNG 하/XSV 시/EP ㄴ/ETM 분/NNB 들/XSN 뭘/IC 기다리/VV 세요/EF ./SF
+고민/NNG 은/JX 배송/NNG 을/JKO 늦추/VV ㄹ/ETM 뿐/NNB ./SF
+/SW
+새로/MAG 노트북/NNP 장만/NNG 하/XSV 았/EP 는데/EC 256/SN gb/SL 는/JX 부족/NNG 하/XSV 아서/EC 1/SN tb/SL 로/JKB 업/NNG 글/NNG 하/XSV 아/EC 보/VV 았/EP 습니다/EF ./SF
+가격/NNG 도/JX 저렴/XR 하/XSA 어/EC 지/VX 어서/EC 잘/MAG 구매/NNG 하/XSV ㄴ/ETM 듯/NNB 하/VX ㅂ니다/EF ./SF
+기본/NNG 케이스/NNG 는/JX 없/VA 지만/EC 호일/NNP 에/JKB 뽁뽁이/NNP 로/JKB 꼼꼼히/MAG 포장/NNG 하/XSV 아서/EC 받/VV 았/EP 습니다/EF ./SF
+추천/NNG 드리/VX ㅂ니다/EF ./SF
+/SW
+속도/NNG 가/JKS 상세/XR 정보/NNP 와/JC 비슷/XR 하/XSA ㄴ/ETM 수준/NNG 으로/JKB 잘/MAG 나오/VV 지만/EC 기존/NNG 에/JKB nvme/SL 사용/NNG 하/XSV 시/EP 던/ETM 분/NNB 은/JX 체감/NNG 이/JKS 크/VA 지/EC 는/JX 않/VX 을/ETM 것/NNB 이/VCP 라/EC 생각/NNG 하/XSV ㅂ니다/EF ./SF
+제품/NNG 안전/NNG 하/XSV 게/EC 잘/MAG 포장/NNG 되/XSV 어/EC 지/VX 어서/EC 오/VV 았/EP 어요/EF ./SF
+할인/NNG 가격/NNG 이/VCP ㄹ/ETM 때/NNG 구입/NNG 하/XSV ㄴ다면/EC 후회/NNG 없/VA 는/ETM 선택/NNG 이/VCP ㄹ듯/EC 싶/VX 습니다/EF ./SF
+/SW
+노트북/NNG 을/JKO 늦/VA 게/EC 받/VV 아/EC 제품/NNG 설치/VV 자/EC 늦/VA 었/EP 습니다/EF ./SF
+구매/NNG 확정/NNG 도/JX 늦/VA 게/EC 되/VV 었/EP 네요/EF ./SF
+제품/NNG 은/JX 정확/XR 하/XSA 고/EC 빠르/VA 게/EC 배송/NNG 하/XSV 아/EC 주/VX 시/EP 었/EP 습니다/EF ./SF
+노트북/NNG 에/JKB 추가/NNG 하/XSV ㄹ/ETM 목적/NNG 으로/JKB 구매/NNG 하/XSV 았/EP 는데/EC Windows/SL 11/SN 에/JKB 잘/MAG 설치/NNG 되/XSV 어/EC 잘/MAG 사용/NNG 하/XSV 고/EC 있/VX 습니다/EF ./SF
+/SW
+ps/SL 5/SN 설치/NNG 후/NNG 포/NR 멧/NNP 하고/JC 속도/NNG 체크/NNG 하/XSV 니/EC 5400/SN 나오/VV 네요/EF ./SF
+아주/MAG 만족/NNG 하/XSV ㅂ니다/EC 노트북/NNG 이나/JC pc/SL 용/XSN 으로/JKB 는/JX 일반/NNG 적/XSN 이/VCP ㄴ/ETM 사람/NNG 에게/JKB 는/JX 고/XPN 스펙/NNP 이/VCP 지만/EC ps/SL 5/SN 는/JX 기본/NNG 사양/NNG 수준/NNG 으로/JKB 높/VA 아서/EC 대부분/NNG 비싸/VA ㄴ데/EC 가/VX 성비/NNP 로/JKB 유명/XR 하/XSA ㄴ/ETM ssd/SL m/SL ./SP 2/SN 는/JX 역시/MAJ 소문/NNP 대로/JX 좋/VA 네요/EF ./SF
+/SW
+pcie/SL 3/SN ./SP 0/SN 보드/NNP 에서/JKB 사용/NNG 하/XSV 았/EP 는데/EC 도/JX 사용/NNG 가능/NNG 하/XSV ㄴ/ETM 최고속/NNG 도/JX 나오/VV 고/EC 온도/NNG 는/JX 정말/MAG 착하/VA 게/EC 나오/VV 네요/EF ./SF
+3200/SN 3200/SN 정도/NNG 나오/VV ㅂ니다/EC 같이/MAG 구입/NNG 하/XSV ㄴ/ETM 방열/NNP 판/NNB 도/JX 성능/NNG 이/JKS 괜찮/VA 기/ETN ㄴ/JX 하/VV ㄴ데/EC pcie/SL 3/SN ./SP 0/SN 보드/NNP 에서/JKB 쓰/VV ㄴ다고/EC 하/VV 면/EC 굳이/MAG 없/VA 어도/EC 되/VV ㄹ/ETM 것/NNB 같/VA 기/ETN ㄴ/JX 하네/NNP 요/JX ./SF
+/SW
+병행/NNG 수입/NNG 제품/NNG 이/VCP 라/EC 하/VX 아도/EC 과거/NNG 에/JKB 는/JX 포장/NNG 이/JKS 그래도/MAJ 있/VX 었/EP 던/ETM 것/NNB 으로/JKB 기억/NNG 하/XSV 는데/EC 요즘/NNG 은/JX 그렇/VA 지/EC 않/VX 은가/EC 보/VX 네요/EF ./SF
+그래도/MAJ 안전/NNG 하/XSV 게/EC 에어/NNP 캡/NNG 포장/NNG 으로/JKB 배송/NNG 되/XSV 었/EP 고/EC 설치/NNG 후/NNG 작동/NNG 도/JX 정상/NNG 적/XSN 으로/JKB 확인/NNG 하/XSV 았/EP 습니다/EF ./SF
+굳/VA 입니다/EF ./SF
+/SW
+펌웨어/NNP 버/NNG 지/VV 어/EC ㄴ/JX 7601/SN Q/SL 이/VCP ㄴ/ETM 들/VV 어/EC 있/VX 는데/EC 수명/NNG 단축/NNG 이란/JX 심각/XR 하/XSA ㄴ/ETM 문제/NNG 가/JKS 있/VV 다고/EC 하/VV ㅁ/ETN ./SF
+받/VV 자마자/EC 7801/SN Q/SL 버/NNG 지/VV 어/EC ㄴ/JX 으로/JKB 업데이트/NNG 하/XSV 았/EP 슴/ETN ./SF
+단/MM 잘/MAG 검색/NNG 하/XSV 아서/EC 반드시/MAG 용량/NNG 과/JC 모델명/NNG 에/JKB 맞/VV 는/ETM 정확/XR 하/XSA ㄴ/ETM 펌웨어/NNP 를/JKO 적용/NNG 하/XSV 지/EC 않/VX 으면/EC 망가지/VV ㄹ/ETM 수/NNB 있/VV 으니/EC 업데이트/NNP 직전/NNG 까지/JX 여러/MM 번/NNB 확인/NNG 하/XSV 고/EC 적용/NNG 하/XSV 지/EC 바람/NNG ./SF
+/SW
+이미/MAG 부모/NNG 님/XSN 이/JKS 이/MM 버림/NNP 병행/NNG 수입/NNG 이/VCP 면/EC 벌크/NNG 이/VCP 었/EP 네/EC cpu/SL 나/JC 다른/MM 것/NNB 처럼/JKB 표기/NNG 하/VV 아/EC 주/VX 던가/EC 그리고/MAJ 리뷰/NNP 보/VV 니까/EC 이미/MAG 이/MM 안/NNG 에/JKB 있/VV 는/ETM 줄/NNB 모르/VV 는/ETM 사람/NNG 있/VV 던데/EC 사례/NNG 있/VV 으면/EC 개선/NNG 하/XSV 던가/EC 내/NP 잘못/NNG 도/JX 있/VV 지만/EC 기분/NNG 같/VA 다/EC 그냥/MAG hdd/SL 나/JC 쓰/VV 련다/EF ./SF
+/SW
+usb/SL 윈도우/NNG 클린/NNP 설치/NNG 하/XSV 니/EC 부팅/NNP 안되/VA 는데/EF ./SF
+마/NNG 이/VCP 그레이/NNP 션/NNP 하니/NNP 부팅/NNG 되/XSV 고/EF ./SF
+제/MM 세팅/NNG 이/JKS 문제/NNG 이/VCP ㄴ지/EF ./SF
+교환/NNG 하/XSV 려다/EC 귀찮/VA 아서/EC 마/NNG 이/VCP 그레이/NNP 션/NNP 해서/NNP 그냥/MAG 쓰/VV ㅂ니다/EF ./SF
+/SW
+박스/NNG 포장/NNG 이/VCP 라/EC 어차피/MAG 망가지/VV ㄹ/ETM 일/NNP 은/JX 없/VA 겠/EP 지만/EC X/SL 팡/NNP 로켓/NNP 배송/NNG 도/JX 요새/NNG 는/JX 정전기/NNP 밀봉/NNG 포장/NNG 에/JKB 뽁뽁이/NNP 까지/JX 하/VV 아서/EC 보내주/VV 는데/EC 항상/MAG 용산전자상가/NNP 에/JKB 포장/NNG 들/XSN 보/VV 면/EC 20/SN 만원/NNP 가까이/NNG 하/VV 는/ETM 최신/NNG 하드/NNP 에/JKB 마치/MAG 중고품/NNG 같/VA 은/ETM 느낌/NNG 이/JKS 들/VV 게/EC 하/VV 는/ETM 쿠킹/NNG 호일/NNP 포장/NNG 은/JX 변하/VV ㅁ/ETN 이/JKS 없/VA 네요/EF ./SF
+/SW
+처음/NNG 에/JKB 주문/NNG 하/XSV ㄴ/ETM 용량/NNG 잘못/MAG 오/VV 았었/EP 는데/EC 교환/NNG 신청/NNG 하/XSV 아서/EC 바로/MAG 처리/NNG 하/XSV 아/EC 주/VX 시/EP 어서/EC 금방/MAG 도착/NNG 하/XSV 았/EP 네요/EF ./SF
+빠르/VA ㄴ/ETM 처리/NNG 하/XSV 아/EC 주/VX 시/EP 어서/EC 감사합니다/IC ./SF
+아/NNP 수스/NNP 최신/NNG 노트북/NNP 구매/NNG 하/XSV 아서/EC 얼렁/MAG 교체/NNG 하/XSV 아야/EC 하/VX 겠/EP 어요/EF ./SF
+/SW
+좋/VA 은/ETM 제품/NNG 잘/MAG 받/VV 았/EP 습니다/EF ./SF
+노트북/NNP 메인보드/NNP 가/JKS PCIE/SL 3/SN ./SP 0/SN 이러/XR 지원/NNG 되/XSV 는/ETM 읽/VV 기/ETN 쓰/VV 기/ETN 속도/NNP 가/JKS 딱/MAG 반쪽/NNG 으로/JKB 나오/VV 네요/EF ./SF
+그래도/MAJ 기존/NNG 보다/JKB 속도/NNG 가/JKS 빠르/VA 아서/EC 만족/NNG 하/XSV ㅂ니다/EF ./SF
+/SW
+상당히/MAG 만족/NNG 하/XSV ㅂ니다/EF ./SF
+기존/NNG 노트북/NNP 256/SN 이/VCP 던/ETM 것/NNB 이번/NNG 에/JKB 1/SN TB/SL 구입/NNG 하/XSV 고/EC 파티션/NNP 2/SN 개/NNB 로/JKB 나누/VV 어서/EC 윈도우/NNG 깔/VV 고/EC 테스트/NNG 하/XSV 아/EC 보/VX 았/EP 는데/EC 속도/NNG 잘/MAG 나오/VV 네요/EF ./SF
+속도/NNP 테스트/NNG 값/NNG 은/JX C/SL 드라이브/NNP 이/NP 이/VCP ㅂ니다/EF ./SF
+/SW
+판매자/NNG 분/XSN 께서/JKS 입고/NNG 가/JKS 지연/NNG 이/VCP 다고/EC 문자/NNG 도/JX 보내주/VV 시/EP 고/EF ./SF
+하루/NNG 기다리/VV 니/EC 잘/MAG 도착/NNG 하/XSV 았/EP 네요/EF ./SF
+서머/NNP ㄹ/JKO 패드/NNP 와/JC 나사/NNP 는/JX 없/VA 으니/EC 참고/NNG 하/XSV 시/EP 어요/EF ./SF
+성능/NNG 은/JX 노트북/NNG 에/JKB 장착/NNG 하/XSV 아/EC 테스트/NNG 하/VV 아/EC 보/VX 아야/EC 알/NNP 것/NNB 같/VA 네요/EF ./SF
+/SW
+기본/NNG 포장/NNG 은/JX 되/VV 어/EC 올/MM 주/VX ㄴ/ETM 알/VV 았/EP 는데/EC 메모리/NNP 주문/NNG 하/XSV ㄹ/ETM 때/NNG 처럼/JKB 은박지/NNG 에/JKB 싸/VV 아서/EC 오/VV 아/EC 다소/MAG 놀라/VV 았/EP 습니다/EF ./SF
+벌크/NNG 방식/NNG 이/VCP 라/EC 명기/NNG 하/XSV 고/EC 포장/NNG 배송/NNG 이/JKS 그렇/VA ㄴ/ETM 수/NNB 있/VV 다고/EC 미리/MAG 공지/NNP 라도/JX 좀/MAG 하/VV 아/EC 주/VX 는/ETM 매너/NNG 가/JKS 있/VX 었/EP 으면/EC 좋/VA 겠/EP 습니다/EF ./SF
+/SW
+배송/NNG 엄청/MAG 빨리/MAG 오/VV 고/EC 성능/NNG 도/JX 아무/MM 문제/NNG 없/VA 습니다/EF ./SF
+Ssd/SL 는/JX 사실/MAG 초기/NNG 불량/NNG 만/JX 아니/VCN 면/EC 잘/MAG 고장/NNG 날/NNG 일/NNG 이/JKS 없/VA 기/ETN 에/JKB 그냥/MAG 벌크/NNG 구입/NNG 하/XSV 았/EP 는데/EC 만족/NNG 스럽/XSA 어/EC 요다/NNP 만/JX 사진/NNG 처럼/JKB 박스/NNG 가/JKS 찢어지/VV 어서/EC 오/VV 아서/EC 좀/MAG 슬프/VA 었/EP 어요/EF ./SF
+/SW
+가격/NNG 도/JX 이번/NNG 에/JKB 많이/MAG 착하/VA 게/EC 나오/VV ㄴ데다/EC 980/SN pro/SL oem/SL 버전/NNG 으로/JKB 속도/NNG 빠르/VA 어요/EF ./SF
+사용/NNG 하/XSV 는/ETM 보드/NNP 가/JKS pcie/SL 3/SN ./SP 0/SN 까지/JX 지원/NNG 이/VCP 라/EC 속도/NNG 를/JKO 다/MAG 못쓰/VV 지만/EC 그래도/MAJ 좋/VA 아요/EF ./SF
+제조/NNG 월/NNB 은/JX 10/SN 월/NNB 버전/NNG 이/VCP 라/EC 이슈/NNG 도/JX 해결/NNG 되/XSV 었/EP 다고/EC 하/VV 니/EC 더/MAG 좋/VA 네요/EF ./SF
+/SW
+23/SN 년/NNB 3/SN 월/NNB 제품/NNG 이/VCP 네요/EF ./SF
+따끈따끈/MAG 하/XSV ㅂ니다/EF ./SF
+다만/NNP mbr/SL 에서/JKB cpt/SL 로/JKB 디스크/NNG 방식/NNG 을/JKO 바꾸/VV 어야/EC 설치/NNG 가/JKS 되/VV 어서/EC 굉장히/MAG 당황/NNG 하/XSV 기/ETN 도/JX 하/VV 았/EP 으나/EC 잘/MAG 찾아보/VV 고/EC 하/VV 니/EC 잘/MAG 설치/NNG 가/JKS 되/VV 었/EP 습니다/EF ./SF
+이제/MAG 용량/NNG 걱정/NNG 이/JKS 없/VA 어/EC 지/VX 었/EP 네요/EF ./SF
+감사합니다/IC ./SF
+/SW
+저렴/XR 하/XSA ㄴ/ETM 가격/NNG 에/JKB 잘/MAG 사/VV 았/EP 습니다/EC 제품/NNP 이/JKS 제/MM 생각/NNG 보다/JKB 더/MAG 작/VA 아서/EC 박스/NNG 에/JKB 안/NNG 들/XSN 이/VCP 어/EC 있/VX 는/ETM 주/VX ㄴ/ETM 알/VV 았/EP 습니다/EF ./SF
+장착/NNG 볼트/NNP 가/JKS 없/VA 어서/EC 아쉽/VA 지만/EC 어찌저찌/MAG 장착/NNG 은/JX 하/VV 아/EC 놓/VX 았/EP 습니다/EF ./SF
+많이/MAG 파/VV 시/EP 어요/EF ./SF
+/SW
+포장/NNG 이/JKS 참/IC ./SF
+누가/NNP 벌크/NNG 아니/VCN 랄까/EC 보/VX 아이/NNP 비싸/VA ㄴ/ETM SSD/SL 의/JKG 포장/NNG 이/JKS 이정/NNP 도면/NNP 보드/NNP 박스/NNP 안/NNG 에/JKB 은박지/NNG 에/JKB 싸/VA ㄴ/ETM NVME/SL SSD/SL 가/JKS 뽁뽁이/NNP 로/JKB 감기/VV 어/EC 있/VX 더군요/EF ./SF
+이/VCP 게/EC 이리저리/MAG 굴러다니/VV 었/EP 을텐데/EF ./SF
+작/VA 은/ETM 박스/NNG 가/JKS 없/VA 으시/EP 었/EP 나/EC 보/VX 네요/EF ./SF
+/SW
+충격/NNG 과/JC 정전기/NNP 에/JKB 민감/XR 하/XSA ㄴ/ETM 제품/NNG 을/JKO 벌크/NNG 로/JKB 살/VV 는게/EC 조금/NNG 은/JX 꺼리/VV 어/EC 지/VX 었/EP 지만/EC 배송/NNG 과/JC 물품/NNG 은/JX 안전/NNG 하/XSV 게/EC 제게/NNG 도착/NNG 하/XSV 았/EP 고/EC 성능/NNG 이야/JX 원/NNB 탑/NNG 이/VCP 므로/EC 말/NNG 하/XSV 는게/EC 입/NNG 아프/VA ㄹ/ETM 정도/NNG 이/VCP 니/EC 오래오래/MAG 잘/MAG 쓰/VV 었/EP 으면/EC 좋/VA 겠/EP 습니다/EF ./SF
+좋/VA 은/ETM 물건/NNG 배송/NNG 주/VV 시/EP 어서/EC 감사합니다/IC ./SF
+/SW
+쓰/VV 기/ETN 속도/NNP 이슈/NNG 는/JX 여전/XR 하/XSA ㄴ/ETM 것/NNB 같/VA 네요/EF ./SF
+이것/NP ㄴ/JX 업체/NNG 잘못/NNG 은/JX 아니/VCN 지만/EC 정보/NNG 차/NNG 남기/VV 구요/EF ./SF
+ps/SL 5/SN 에/JKB 설치/NNG 하/XSV ㄹ/ETM 것/NNB 이/VCP 라서/EC 신경/NNG 은/JX 안/MAG 쓰이/VV 는/ETM 문제/NNG 이/VCP 고요/EF ./SF
+명절/NNG 이/VCP 라/EC 어쩌/VV ㄹ/ETM 수/NNB 없이/MAG 배송/NNG 이/JKS 늦/VA 었/EP 지만/EC 그래도/MAJ 토요일/NNG 에/JKB 받/VV 아서/EC 설치/NNG 하/XSV 았/EP 습니다/EF ./SF
+/SW
+펌웨어/NNP 버전/NNP 사전/NNG 문/NNG 의/JKG 한/MM 대로/NNB 오/VV 았/EP 고/EC B/SL 450/SN 메인보드/NNP 이/VCP 라/EC 3/SN ./SP 0/SN X/SL 4/SN 로/JKB 쓰/VV 고/EC 있/VV 지만/EC 속도/NNG 것/NNB 의/JKG 상한/NNG 으로/JKB 나오/VV ㅂ니다/EF ./SF
+방열/NNP 판/NNB 도/JX 보드/NNP 에/JKB 달리/VV ㄴ/ETM 것/NNB 로/JKB 쓰/VV 고/EC 있/VX 는데/EC 발열/NNP 도/JX 일상/NNG 사용/NNG 에서/JKB 볕/NNG 다르/VA ㄴ/ETM 문제/NNG 없/VA 어서/EC 별도/NNG 로/JKB 방열/NNP 판/NNB 알/VV ㄴ/ETM 사도/NNP 되/VV ㄹ/ETM 것/NNB 같/VA 아요/EF ./SF
+/SW
+사진/NNG 및/MAG 동영상/NNP 저장/NNG 용/XSN 으로/JKB 구매/NNG 하/XSV 았/EP 습니다/EF ./SF
+배송/NNG 빠르/VA 고/EC 외장/NNG SSD/SL 케이스/NNG 에/JKB 넣/VV 어서/EC 윈도우/NNG 11/SN 노트북/NNG 과/JC 연결/NNG 시/NNB 동작/NNG 잘/MAG 되/VV ㅂ니다/EF ./SF
+많이/MAG 파/VV 세요/EF ./SF
+/SW
+제/NP 가/JKS 받/VV 은/ETM 제품/NNG 은/JX 23/SN 년/NNB 제조/NNG 로/JKB 표기/NNG 되/XSV 어/EC 있/VX 었/EP 고/EC 펌웨어/NNP 는/JX GXA/SL 7601/SN Q/SL 이/VCP 었/EP 습니다/EF ./SF
+NVME/SL 는/JX 꼭/MAG 방열/NNP 판/NNB 붙이/VV 고/EC 쓰/VV 세요/NNP 아/JKV ./SF
+가장/MAG 중요/XR 하/XSA ㄴ/ETM 정보/NNG 를/JKO 빼먹/VV 었/EP 네요/EF ./SF
+제/NP 가/JKS 받/VV 은/ETM 것/NNB 은/JX 모델명/NNG 이/JKS 00/SN B/SL 00/SN 으로/JKB 끝나/VV 는/ETM 펌웨어/NNP 업데이트/NNP 가/JKS 가능/XR 하/XSA ㄴ/ETM 버전/NNG 이/VCP 었/EP 습니다/EF ./SF
+/SW
+박스/NNG 없/VA 는/ETM 온리/NNG 뽁뽁이/NNP 포장/NNG 이/VCP 군요/EF ./SF
+작동/NNG 만/JX 잘/MAG 되/XSV 고/EC 상관없/VA 지만/EC 상하/NNG 차/NNG 하/VV 아/EC 보/VX 아서/EC 알/VV 는데/EC 이/MM 정도/NNG 로/JKB 포장/NNG 하/XSV 면/EC 파손/NNG 위험/NNG 이/JKS 있/VX 습니다/EF ./SF
+배송/NNG 빠르/VA 아서/EC 별/MM 다섯/NR 개요/NNP 불량/NNG 만/JX 아니/VCN 길/NNP 아직/MAG 조립/NNG 전/NNG ./SF
+/SW
+다음날/NNG 바로/MAG 도착/NNG 하/XSV 았/EP 어요/EF ./SF
+뽁뽁이/NNP 로/JKB 과/NNG 하/XSV 다/EC 싶/VX 을/ETM 정도/NNG 로/JKB 둘둘/MAG 말/VX 아서/EC 상자/NNG 에/JKB 넣/VV 어/EC 보내주/VV 시/EP 었/EP 네요/EF ./SF
+파인/NNP 이/VCP ㄴ/ETM 포/NNP 정품/NNG 스티/NNP 것/NNB 붙/VV 어/EC 있/VX 구요/EF ./SF
+펌웨어/NNP 는/JX GXA/SL 7601/SN Q/SL 제조/NNG 월/NNB 은/JX 2022/SN 년/NNB 10/SN 월/NNB 이/VCP 네요/EF ./SF
+문제/NNP 해결/NNG 되/XSV ㄴ/ETM 펌/NNG 웨/MAG 로/JKB 보이/VV ㅂ니다/EF ./SF
+빠르/VA ㄴ/ETM 배송/NNG 감사드리/VV ㅂ니다/EF ./SF
+/SW
+아무리/MAG 벌크/NNG 이/VCP 라고/EC 하/VV 아도/EC 속도/NNG 저하/NNP 문제/NNG 있/VV 는/ETM 구/XPN 버전/NNP 펌웨어/NNP 로/JKB 되/VV ㄴ/ETM 제품/NNG 을/JKO 보내/VV 는/ETM 것/NNB ㄴ/JX 좀/MAG 아니/VCN ㄴ/ETM 것/NNB 같/VA 습니다/EF ./SF
+21/SN 년/NNB 7/SN 월/NNB 생산/NNG 제품/NNG 이/VCP ㅂ니다/EF ./SF
+수동/NNG 으로/JKB 펌웨어/NNP 업그레이드/NNP 하/VV 았/EP 네요/EF ./SF
+작동/NNG 은/JX 제대로/MAG 하/VX ㅂ니다/EF ./SF
+/SW
+인식/NNG 잘되/VV 고/EC 속도/NNG 훌륭/XR 하/XSA ㅂ니다/EF ./SF
+AMD/SL 5600/SN x/SL 와/JC 함께/MAG 이번/NNG 에/JKB 기존/NNG SATA/SL 970/SN PRO/SL 를/JKO 이것/NP 로/JKB 교체/NNG 하/XSV 았/EP 는데/EC 속도/NNG 가/JKS 아주/MAG 신세계/NNP 네/XSN 요/JX 강추/NNG 하/XSV ㅂ니다/EF ./SF
+/SW
+배송/NNG 도/JX 빠르/VA 고/EC 저렴/XR 하/XSA ㄴ/ETM 가격/NNG 에/JKB 사/VV 았/EP 습니다/EF ./SF
+포장/NNG 은/JX 뭐/NP 좀/MAG 과/NNG 하/XSV 다고/EC 생각/NNG 하/VV ㄹ/ETM 정도/NNG 로/JKB 뽁뽁이/NNP 로/JKB 포장/NNG 하/XSV 고/EC 상자/NNG 에/JKB 넣/VV 고/EC 또/MAG 뽁뽁이/NNP 로/JKB 포장/NNG 을/JKO 하/VV 아서/EC 보내주/VV 시/EP 었/EP 네요/EF ./SF
+/SW
+배송/NNG 도/JX 빠르/VA 고/EC 수입/NNG 업체/NNG 장우/NNP AS/SL 스티커/NNG 도/JX 따로/MAG 부착/NNG 하/XSV ㄹ/ETM 수/NNB 있/VV 게끔/EC 나오/VV 아서/EC 좋/VA 았/EP 습니다/EF ./SF
+펌웨어/NNP 도/JX 7601/SN Q/SL 버전/NNG 이/VCP 라/EC 쓰/VV 기/ETN 속도/NNP 저하/NNG 해결/NNG 되/XSV ㄴ/ETM 펌웨어/NNP 이/VCP 라/EC 바로/MAG 사용/NNG 가능/NNG 하/XSV ㄹ/ETM 것/NNB 같/VA 네요/EF ./SF
+감사합니다/IC ./SF
+/SW
+속도/NNG 는/JX 잘/MAG 나오/VV 네요/EF ./SF
+컴퓨터/NNG 랜더/NNP 링/NNP 때문/NNB 에/JKB 사/VV 았/EP 는데/EC 체감/NNG 이/JKS 확/MAG 좋아지/VV 진/EC 않/VX 지만/EC 컴퓨터/NNG 속도/NNG 가/JKS 체감/NNG 으로/JKB 빠르/VA 아진/NNP 것/NNB 같/VA 기/ETN ㄴ/JX 하/VX ㅂ니다/EF ./SF
+/SW
+980/SN pro/SL 와/JC 동일/NNG 모델/NNG 이/VCP ㄴ데/EC 가격/NNG 적/XSN 메리트/NNG 가/JKS 크/VA 어서/EC 선택/NNG 하/XSV 았/EP 습니다/EF ./SF
+병행/NNG 제품/NNG 이/VCP 라/EC AS/SL 기간/NNG 이/JKS 다소/MAG 짧/VA 기/ETN ㄴ/JX 하/VV 지만/EC 그러/VV 어도/EC 2/SN 년/NNB 삼성/NNP 메모리/NNP 의/JKG 품질/NNG 을/JKO 믿/VV 어/EC 보/VX ㅂ니다/EF ./SF
+/SW
+M.2/NNP 나사/NNP 는/JX 주/VX 어야죠/EC m/SL ./SP 2/SN 나사/NNP 미/XPN 동봉/NNG 상태/NNG 로/JKB 그냥/MAG ssd/SL 만/JX 오/VX 네요/EF ./SF
+끼우/VV 기/ETN 는/JX 끼우/VV 었/EP 습니다/EF ./SF
+파티션/NNP 할당/NNP 도/JX 이상/NNG 없이/MAG 잘/MAG 되/XSV 었/EP 는데/EC 언제/MAG 빠지/VV ㄹ지/EC 조마조마하/VA 면서/EC 컴퓨터/NNG 를/JKO 쓰/VV 어야/EC 하/VX ㄴ다는/ETM 게/EC ./SF
+말/NNG 이/VCP 아/EC ㄴ/JX 나오/VV 네요/EF ./SF
+/SW
+3/SN 일/NR 만/NR 에/JKB 오/VV 았/EP 어요/EF ./SF
+크기/NNG 에/JKB 맞/VV 지/EC 않/VX 는/ETM 플라스틱/NNG 케이스/NNG 에/JKB 알루미늄/NNP 호일/NNP 로/JKB 감싸/VV 아서/EC 온건/NNG 좀/MAG 그렇/VA 네요/EF ./SF
+플라스틱/NNG 케이스/NNG 겉/NNG 은/JX 뽁뽁이/NNP 로/JKB 잘/MAG 감싸/VV 아/EC 지/VX 어/EC 있/VX 지만/EC 속/NNG 은/JX 그렇/VA 지/EC 않/VX 아서/EC 실망/NNG 이/VCP 에요/EF ./SF
+운반/NNG 중/NNB 파손/NNG 되/XSV 고/EC 어쩌/VV 시/EP 려고/EF ./SF
+/SW
+마더보드/NNG 에/JKB 꽂/VV 았/EP 더니/EC 인식/NNG 이/JKS 되/VV 다/EC 안/NNG 되/XSV 다/EC 하/VV 아서/EC 확인/NNG 하/XSV 아/EC 보/VX 니/EC 보드/NNP 가/JKS 얇/VA 은/ETM 관계/NNP 로/JKB 열/NNG 이/VCP 나면/EC 휘/VV 어서/EC 접/VV 불이/NNP 나나/NNP 보다/JKB 하/VV 고/EC 방열/NNP 판/NNB 구하/VV 아/EC 붙히/VV 었/EP 더니/EC 이상/NNG 없/VA 네요/EF ./SF
+pcb/SL 가/JKS 너무/MAG 얇/VA 아서/EC 쓰/VV 다/EC 보/VX 면/EC 쉽/VA 게/EC 휘어지/VV 네요/EF ./SF
+꼭/MAG 방열/NNP 판/NNB 붙히/VV 어서/EC 쓰/VV 어야/EC 하/VX ㄹ듯/EF ./SF
+/SW
+꼼꼼/XR 하/XSA ㄴ/ETM 포장/NNG 에/JKB 배송/NNG 도/JX 빠르/VA 아서/EC 좋/VA 았/EP 네요/EF ./SF
+장착/NNG 하/XSV 고/EC 나니/NNP 컴퓨터/NNG 가/JKS 날아다니/VV 네요/EF ./SF
+삼성/NNP 에서/JKB 등록/NNG 하/XSV ㄴ/ETM 읽/VV 기/ETN 쓰기/NNP 속도/NNG 보다/JKB 더/MAG 삐/VV 르/NNP ㄴ/ETM 듯/NNB 하/XSA 어요/EF ./SF
+너무너무/MAG 좋/VA 습니다/EF ./SF
+/SW
+완제품/NNG 조립/NNG 을/JKO 위하/VV 아/EC 구입/NNG 하/XSV 았/EP 습니다/EF ./SF
+배송/NNG 빠르/VA ㅁ/ETN ./SF
+특히/MAG 저렴/XR 하/XSA ㄴ/ETM 가격/NNG 에/JKB 만족/NNG 하/XSV ㅂ니다/EF ./SF
+성능/NNG 잘/MAG 나오/VV 아요/EF ./SF
+사진/NNP 은/JX 완제품/NNG pc/SL 구동/NNG 사진/NNG 이/VCP ㅂ니다/EF ./SF
+/SW
+품질/NNG 은/JX 뭐/NP 일단/MAG 쓰/VV 어/EC 보/VX 아야/EC 하/VX 겠/EP 지만/EF ./SF
+괜찮/VA 겠/EP 지요/EF ./SF
+근데/MAJ 나사/NNP 는/JX 같이/MAG 보내주/VV 는게/EC 원칙/NNG 아니/VCN ㄴ가요/EF ./SF
+스/NNG 스/VV 드/NNP 에/JKB 나사/NNG 없이/MAG 첨/MAG 받/VV 아/EC 보/VX 았/EP 어요/EF ./SF
+맞/VV 는/ETM 나사/NNP 찾/VV 아서/EC 꽂/VV 느라/EC 애/NNG 좀/MAG 쓰/VV 었/EP 네요/EF ./SF
+/SW
+플라스틱/NNP 케이스/NNP 에/JKB 포장/NNG 되/XSV 어서/EC 안전/NNG 하/XSV 게/EC 오/VV 았/EP 네요/EF ./SF
+아직/MAG 설치전/NNG 이/VCP 라/EC 성능/NNG 확인/NNG 은/JX 못하/VX 았/EP 지만/EC 워낙/MAG 가/VX 성비/NNP 좋/VA 다라고/EC 유명/XR 하/XSA 니/EC 설치/NNG 하/XSV 아/EC 보/VX 고/EC 확인/NNG 하/XSV 아/EC 보/VX 아야/EC 하/VX 겠/EP 네요/EF ./SF
+/SW
+23/SN 년/NNB 1/SN 월/NNB 베트남/NNP 생산/NNG 최신/NNG 제품/NNG 으로/JKB 보내주/VV 시/EP 었/EP 어요/EF ./SF
+크리스탈/NNP 인/NNG 포/NNG 돌리/VV 어/EC 보/VX 니/EC 사용/NNG 시간/NNG 0/SN 이/VCP 고/EC 상태/NNG 최상/NNG 으로/JKB 뜨/VV 고요/EF ./SF
+크리스탈/NNP 마크/NNP 돌리/VV 어/EC 보/VX ㄴ바/EC 정상/NNG 속도/NNG 로/JKB 작동/NNG 하/XSV 네요/EF ./SF
+/SW
+스펙/NNP 보다/JKB 속도/NNG 가/JKS 더/MAG 잘/MAG 나오/VV ㅂ니다/EF ./SF
+단/NNP pcie/SL 4/SN ./SP 0/SN m/SL 2/SN 에/JKB 설치/NNG 하/XSV 시/EP 고/EC 추가/NNG nvme/SL 가/JKS 설치/NNG 되/XSV 고/EC 읽/VV 기/ETN 속도/NNG 저하/NNG 나오/VV 니/EC 단독/NNG 설치/NNG 하/VV 아야/EC 하/VV ㅂ니다/EF ./SF
+/SW
+포장/NNG 패키지/NNP 는/JX 없/VA 지만/EC 정품/NNG 스티커/NNG 도/JX 붙/VV 어/EC 있/VX 고/EC 상태/NNG 매우/MAG 좋/VA 은/ETM 신품/NNG ./SF
+SATA/SL SSD/SL 사용/NNG 하/XSV 다/EC 바꾸/VV 었/EP 더니/EC 엄청나/VA 게/EC 빠르/VA 아음/NNP ./SF
+가격/NNG 과/JC 성능/NNG 모두/MAG 굳/VA ./SF
+/SW
