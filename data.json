@@ -1,121 +1,157 @@
 {
-	"name": "삼성전자 PM9A1 M.2 NVMe 병행수입",
-	"price": "78210",
-	"category": "내장형SSD "
+	"name": "이엠텍 지포스 RTX 4090 GAMEROCK OC D6X 24GB",
+	"price": "2581980",
+	"category": "RTX 4090 "
 }{
-	"name": "SK하이닉스 Platinum P41 M.2 NVMe",
-	"price": "139000",
-	"category": "내장형SSD "
+	"name": "ASUS ROG XG Mobile GC33Y-022",
+	"price": "3089600",
+	"category": "외장그래픽(전용) "
 }{
-	"name": "마이크론 Crucial P5 Plus M.2 NVMe 대원씨티에스",
-	"price": "110000",
-	"category": "내장형SSD "
+	"name": "GAINWARD 지포스 RTX 4090 팬텀 GS D6X 24GB",
+	"price": "2548840",
+	"category": "RTX 4090 "
 }{
-	"name": "삼성전자 980 PRO M.2 NVMe",
-	"price": "193910",
-	"category": "내장형SSD "
+	"name": "MSI 지포스 RTX 4090 슈프림 X D6X 24GB 트라이프로져3S",
+	"price": "2767720",
+	"category": "RTX 4090 "
 }{
-	"name": "SK하이닉스 Gold P31 M.2 NVMe",
-	"price": "98000",
-	"category": "내장형SSD "
+	"name": "다나와표준PC Danawa e-sports Inonix 에디션",
+	"price": "5285690",
+	"category": "인텔 "
 }{
-	"name": "삼성전자 870 EVO",
-	"price": "47120",
-	"category": "내장형SSD "
+	"name": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+	"price": "2479330",
+	"category": "RTX 4090 "
 }{
-	"name": "솔리다임 P41 PLUS M.2 NVMe",
-	"price": "76580",
-	"category": "내장형SSD "
+	"name": "다나와표준PC Danawa e-sports seoul 에디션",
+	"price": "5585000",
+	"category": "인텔 "
 }{
-	"name": "마이크론 Crucial MX500 대원씨티에스",
-	"price": "45920",
-	"category": "내장형SSD "
+	"name": "GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 피씨디렉트",
+	"price": "2326970",
+	"category": "RTX 4090 "
 }{
-	"name": "삼성전자 970 EVO Plus M.2 NVMe",
-	"price": "45500",
-	"category": "내장형SSD "
+	"name": "COLORFUL 지포스 RTX 4090 토마호크 EX D6X 24GB",
+	"price": "2313280",
+	"category": "RTX 4090 "
 }{
-	"name": "Seagate 파이어쿠다 530 M.2 NVMe",
-	"price": "158990",
-	"category": "내장형SSD "
+	"name": "GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 제이씨현",
+	"price": "2359890",
+	"category": "RTX 4090 "
 }{
-	"name": "삼성전자 980 M.2 NVMe",
-	"price": "45000",
-	"category": "내장형SSD "
+	"name": "몬스타 몬스타기어 호스트13",
+	"price": "8739990",
+	"category": "인텔 "
 }{
-	"name": "인텔 SOLIDIGM 670p M.2 NVMe",
-	"price": "71590",
-	"category": "내장형SSD "
+	"name": "갤럭시 GALAX 지포스 RTX 4090 SG WHITE OC V2 D6X 24GB",
+	"price": "2768740",
+	"category": "RTX 4090 "
 }{
-	"name": "Western Digital WD BLACK SN770 M.2 NVMe",
-	"price": "57190",
-	"category": "내장형SSD "
+	"name": "HP 오멘 45L GT22-1006kr",
+	"price": "6480696",
+	"category": "인텔 "
 }{
-	"name": "타무즈 GK300",
-	"price": "23240",
-	"category": "내장형SSD "
+	"name": "ZOTAC GAMING 지포스 RTX 4090 AMP EXTREME AIRO D6X 24GB",
+	"price": "2414990",
+	"category": "RTX 4090 "
 }{
-	"name": "타무즈 GKV700 M.2 NVMe",
-	"price": "40000",
-	"category": "내장형SSD "
+	"name": "ASUS ROG STRIX 지포스 RTX 4090 O24G GAMING OC D6X 24GB",
+	"price": "2949000",
+	"category": "RTX 4090 "
 }{
-	"name": "Seagate 바라쿠다 Q5 M.2 NVMe",
-	"price": "208990",
-	"category": "내장형SSD "
+	"name": "MSI GT시리즈 Titan GT77 HX 13VI-i9 4K Mini LED W11",
+	"price": "6725880",
+	"category": "노트북 "
 }{
-	"name": "BIOSTAR M720 M.2 NVMe",
-	"price": "47000",
-	"category": "내장형SSD "
+	"name": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트",
+	"price": "2540510",
+	"category": "RTX 4090 "
 }{
-	"name": "Western Digital WD Blue SN570 M.2 NVMe",
-	"price": "46990",
-	"category": "내장형SSD "
+	"name": "MANLI 지포스 RTX 4090 Gallardo D6X 24GB",
+	"price": "2282250",
+	"category": "RTX 4090 "
 }{
-	"name": "COLORFUL CN600 PRO M.2 NVMe 디앤디컴",
-	"price": "39000",
-	"category": "내장형SSD "
+	"name": "Canon 정품 GI-90 PGBK 검정",
+	"price": "9830",
+	"category": "무한잉크 "
 }{
-	"name": "삼성전자 990 PRO M.2 NVMe",
-	"price": "152210",
-	"category": "내장형SSD "
+	"name": "GIGABYTE AORUS 지포스 RTX 4090 Master D6X 24GB 제이씨현",
+	"price": "2697840",
+	"category": "RTX 4090 "
 }{
-	"name": "PATRIOT P300 M.2 NVMe",
-	"price": "61810",
-	"category": "내장형SSD "
+	"name": "ZOTAC GAMING 지포스 RTX 4090 AMP EXTREME AIRO D6X 24GB White",
+	"price": "2489850",
+	"category": "RTX 4090 "
 }{
-	"name": "HIKVISION HHB1 M.2 NVMe",
-	"price": "64880",
-	"category": "내장형SSD "
+	"name": "MSI GT시리즈 Titan GT77 HX 13VI-i9 4K Mini LED W11 128GB램",
+	"price": "8090000",
+	"category": "노트북 "
 }{
-	"name": "마이크론 Crucial P3 M.2 NVMe 대원씨티에스",
-	"price": "46000",
-	"category": "내장형SSD "
+	"name": "갤럭시 GALAX 지포스 RTX 4090 SG BLACK OC V2 D6X 24GB",
+	"price": "2753990",
+	"category": "RTX 4090 "
 }{
-	"name": "PNY CS1031 Gen3 M.2 NVMe 마이크로닉스",
-	"price": "108550",
-	"category": "내장형SSD "
+	"name": "몬스타 몬스타기어 블루문13",
+	"price": "8540000",
+	"category": "인텔 "
 }{
-	"name": "키오시아 EXCERIA M.2 NVMe",
-	"price": "51200",
-	"category": "내장형SSD "
+	"name": "ASUS TUF Gaming 지포스 RTX 4090 O24G OC D6X 24GB",
+	"price": "2596000",
+	"category": "RTX 4090 "
 }{
-	"name": "ADATA LEGEND 840 M.2 NVMe",
-	"price": "46180",
-	"category": "내장형SSD "
+	"name": "ASUS ROG STRIX 지포스 RTX 4090 O24G GAMING OC D6X 24GB White",
+	"price": "3189780",
+	"category": "RTX 4090 "
 }{
-	"name": "인텔 D3-S4510",
-	"price": "330000",
-	"category": "내장형SSD "
+	"name": "갤럭시 GALAX 지포스 RTX 4090 HYDRO WHITE OC D6X 24GB",
+	"price": "3194270",
+	"category": "RTX 4090 "
 }{
-	"name": "Western Digital WD BLACK SN850X M.2 NVMe",
-	"price": "138000",
-	"category": "내장형SSD "
+	"name": "Razer Blade 18 13Gen R4090 QHD",
+	"price": "6590000",
+	"category": "노트북 "
 }{
-	"name": "마이크로닉스 WARP GX4 M.2 NVMe",
-	"price": "163750",
-	"category": "내장형SSD "
+	"name": "COLORFUL iGame 지포스 RTX 4090 Neptune OC D6X 24GB",
+	"price": "3289700",
+	"category": "RTX 4090 "
 }{
-	"name": "BIOSTAR S120",
-	"price": "73120",
-	"category": "내장형SSD "
+	"name": "Razer Blade 16 13Gen R4090 4K Dual",
+	"price": "6390000",
+	"category": "노트북 "
+}{
+	"name": "몬스타 몬스타기어 레드문",
+	"price": "8979990",
+	"category": "인텔 "
+}{
+	"name": "다나와표준PC Danawa e-sports Salute 에디션",
+	"price": "5306000",
+	"category": "인텔 "
+}{
+	"name": "COLORFUL iGame 지포스 RTX 4090 Vulcan OC D6X 24GB",
+	"price": "3156500",
+	"category": "RTX 4090 "
+}{
+	"name": "MSI 지포스 RTX 4090 게이밍 X 트리오 D6X 24GB 트라이프로져3",
+	"price": "2597630",
+	"category": "RTX 4090 "
+}{
+	"name": "다나와표준PC Danawa e-sports Loki 에디션",
+	"price": "5300000",
+	"category": "인텔 "
+}{
+	"name": "GIGABYTE AORUS 지포스 RTX 4090 Master D6X 24GB 피씨디렉트",
+	"price": "2708080",
+	"category": "RTX 4090 "
+}{
+	"name": "GIGABYTE 지포스 RTX 4090 WINDFORCE D6X 24GB 제이씨현",
+	"price": "2482560",
+	"category": "RTX 4090 "
+}{
+	"name": "몬스타 몬스타기어 게놈13",
+	"price": "5780000",
+	"category": "인텔 "
+}{
+	"name": "PNY 지포스 RTX 4090 VERTO D6X 24GB Triple 마이크로닉스",
+	"price": "2376930",
+	"category": "RTX 4090 "
 }
