@@ -184,7 +184,7 @@ def textrank_list(komoran,text):
     frequent_words = set()
     for word, rank in keywords:
         if word[-3:] in {'NNG', 'NNP'}:
-            if len(frequent_words) < 10:
+            if len(frequent_words) < 10 and len(word[:-4]) != 1 and word[:-4] != "배송":
                 frequent_words.add(word[:-4])
 
     frequent_words = list(frequent_words)
@@ -221,5 +221,4 @@ if __name__ == "__main__":
         komoran, pre_text = komoran_parsing(file)
         key, komoran, pre_text = textrank_list(komoran,pre_text)
         pros_cons = bert.BERT_list(key,komoran)
-
-print(pros_cons)
+    print(pros_cons)

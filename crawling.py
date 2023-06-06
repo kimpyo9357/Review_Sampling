@@ -14,7 +14,8 @@ import numpy as np
 import re
 import json
 
-def list_crawling(code,driver):
+def list_crawling(code):
+    driver = init_driver()
     #url = 'https://prod.danawa.com/list/?cate=112760'
     url = 'https://search.danawa.com/dsearch.php?k1='+str(code)
     driver.get(url)
@@ -34,7 +35,7 @@ def list_crawling(code,driver):
                 data['name'] = title.strip()
                 data['price'] = price
                 data['category'] = spec_list.split("/")[0]
-                print(title.strip(), spec_list.split("/")[0], price,link, sep = '\n')
+                #print(title.strip(), spec_list.split("/")[0], price,link, sep = '\n')
                 #print(data)
                 json.dump(data,f,ensure_ascii=False, indent='\t')
                 #print(title.strip(), link)
@@ -60,8 +61,10 @@ def init_driver():
     driver = webdriver.Chrome(ChromeDriverManager().install(),options=options)
     return driver
 
-def find_review(pcode, driver):
-    LOADING_WAIT_TIME = 1
+def find_review(pcode):
+    exe = 0
+    driver = init_driver()
+    LOADING_WAIT_TIME = 2
     # 크롤링할 상품 코드
 
     # 결과 리스트
@@ -117,8 +120,11 @@ def find_review(pcode, driver):
                             (By.XPATH, f'//*[@id="danawa-prodBlog-companyReview-content-list"]/div/div/div/a[text()={i + 1}]')
                         )
                     )
+                exe = 0
             except:
-                break
+                if (exe == 1):
+                    break
+                exe = 1
             try:
                 driver.find_element(By.XPATH, f'//*[@id="danawa-prodBlog-companyReview-content-list"]/div/div/div/a[text()={i + 1}]').click()
             except exceptions.StaleElementReferenceException.e:
@@ -132,10 +138,9 @@ def ret_pcode(url):
     return pcode
 
 if __name__ == "__main__":
-    driver = init_driver()
-    #list_crawling("4090",driver)
-    pcode = ret_pcode("https://prod.danawa.com/info/?pcode=17982347&keyword=4090&cate=112753")
-    find_review('7097410', driver)
+    list_crawling("4090")
+    #pcode = ret_pcode("https://prod.danawa.com/info/?pcode=17982347&keyword=4090&cate=112753")
+    find_review('7097410')
     '''for pcode in pcodes:
         find_review(pcode, driver)
         #for r in result:

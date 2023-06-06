@@ -152,7 +152,9 @@ def BERT_file(file):
 
     np.set_printoptions(threshold=sys.maxsize)
     total = keys.sum(axis=0)
-    avg = total/count
+    np.seterr(invalid='ignore')
+    avg = np.divide(total,count)
+    #avg = total/count
 
     pros_cons = {name : value for name, value in zip(key,avg)}
     pros_cons = sorted(pros_cons.items(), key = lambda item: item[1])
@@ -284,11 +286,13 @@ def BERT_list(keys,komoran):
 
     np.set_printoptions(threshold=sys.maxsize)
     total = keys.sum(axis=0)
-    avg = total/count
-    print(key)
+    np.seterr(invalid='ignore')
+    avg = np.divide(total, count)
+    # avg = total/count
+    '''print(key)
     print(total)
     print(count)
-    print(avg)
+    print(avg)'''
 
     pros_cons = {name : value for name, value in zip(key,avg)}
     pros_cons = sorted(pros_cons.items(), key = lambda item: item[1])
