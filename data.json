@@ -1,157 +1,182 @@
 {
-	"name": "이엠텍 지포스 RTX 4090 GAMEROCK OC D6X 24GB",
-	"price": "2579460",
-	"category": "RTX 4090 "
-}{
-	"name": "ASUS ROG XG Mobile GC33Y-022",
-	"price": "3089600",
-	"category": "외장그래픽(전용) "
-}{
-	"name": "GAINWARD 지포스 RTX 4090 팬텀 GS D6X 24GB",
-	"price": "2522950",
-	"category": "RTX 4090 "
-}{
-	"name": "MSI 지포스 RTX 4090 슈프림 X D6X 24GB 트라이프로져3S",
-	"price": "2615000",
-	"category": "RTX 4090 "
-}{
-	"name": "다나와표준PC Danawa e-sports Inonix 에디션",
-	"price": "5285640",
-	"category": "인텔 "
-}{
-	"name": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
-	"price": "2479280",
-	"category": "RTX 4090 "
-}{
-	"name": "다나와표준PC Danawa e-sports seoul 에디션",
-	"price": "5585000",
-	"category": "인텔 "
-}{
-	"name": "GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 피씨디렉트",
-	"price": "2326960",
-	"category": "RTX 4090 "
-}{
-	"name": "COLORFUL 지포스 RTX 4090 토마호크 EX D6X 24GB",
-	"price": "2313280",
-	"category": "RTX 4090 "
-}{
-	"name": "GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 제이씨현",
-	"price": "2359890",
-	"category": "RTX 4090 "
-}{
-	"name": "몬스타 몬스타기어 호스트13",
-	"price": "8739990",
-	"category": "인텔 "
-}{
-	"name": "갤럭시 GALAX 지포스 RTX 4090 SG WHITE OC V2 D6X 24GB",
-	"price": "2768720",
-	"category": "RTX 4090 "
-}{
-	"name": "HP 오멘 45L GT22-1006kr",
-	"price": "6480696",
-	"category": "인텔 "
-}{
-	"name": "ZOTAC GAMING 지포스 RTX 4090 AMP EXTREME AIRO D6X 24GB",
-	"price": "2414990",
-	"category": "RTX 4090 "
-}{
-	"name": "ASUS ROG STRIX 지포스 RTX 4090 O24G GAMING OC D6X 24GB",
-	"price": "3048970",
-	"category": "RTX 4090 "
-}{
-	"name": "MSI GT시리즈 Titan GT77 HX 13VI-i9 4K Mini LED W11",
-	"price": "6725880",
-	"category": "노트북 "
-}{
-	"name": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트",
-	"price": "2540460",
-	"category": "RTX 4090 "
-}{
-	"name": "MANLI 지포스 RTX 4090 Gallardo D6X 24GB",
-	"price": "2282250",
-	"category": "RTX 4090 "
-}{
-	"name": "Canon 정품 GI-90 PGBK 검정",
-	"price": "9830",
-	"category": "무한잉크 "
-}{
-	"name": "GIGABYTE AORUS 지포스 RTX 4090 Master D6X 24GB 제이씨현",
-	"price": "2653000",
-	"category": "RTX 4090 "
-}{
-	"name": "ZOTAC GAMING 지포스 RTX 4090 AMP EXTREME AIRO D6X 24GB White",
-	"price": "2482340",
-	"category": "RTX 4090 "
-}{
-	"name": "MSI GT시리즈 Titan GT77 HX 13VI-i9 4K Mini LED W11 128GB램",
-	"price": "8090000",
-	"category": "노트북 "
-}{
-	"name": "갤럭시 GALAX 지포스 RTX 4090 SG BLACK OC V2 D6X 24GB",
-	"price": "2725410",
-	"category": "RTX 4090 "
-}{
-	"name": "몬스타 몬스타기어 블루문13",
-	"price": "8540000",
-	"category": "인텔 "
-}{
-	"name": "ASUS TUF Gaming 지포스 RTX 4090 O24G OC D6X 24GB",
-	"price": "2595960",
-	"category": "RTX 4090 "
-}{
-	"name": "ASUS ROG STRIX 지포스 RTX 4090 O24G GAMING OC D6X 24GB White",
-	"price": "3189530",
-	"category": "RTX 4090 "
-}{
-	"name": "갤럭시 GALAX 지포스 RTX 4090 HYDRO WHITE OC D6X 24GB",
-	"price": "3194240",
-	"category": "RTX 4090 "
-}{
-	"name": "Razer Blade 18 13Gen R4090 QHD",
-	"price": "6590000",
-	"category": "노트북 "
-}{
-	"name": "COLORFUL iGame 지포스 RTX 4090 Neptune OC D6X 24GB",
-	"price": "3289650",
-	"category": "RTX 4090 "
-}{
-	"name": "Razer Blade 16 13Gen R4090 4K Dual",
-	"price": "6390000",
-	"category": "노트북 "
-}{
-	"name": "몬스타 몬스타기어 레드문",
-	"price": "8979990",
-	"category": "인텔 "
-}{
-	"name": "다나와표준PC Danawa e-sports Salute 에디션",
-	"price": "5306000",
-	"category": "인텔 "
-}{
-	"name": "COLORFUL iGame 지포스 RTX 4090 Vulcan OC D6X 24GB",
-	"price": "3156490",
-	"category": "RTX 4090 "
-}{
-	"name": "MSI 지포스 RTX 4090 게이밍 X 트리오 D6X 24GB 트라이프로져3",
-	"price": "2597570",
-	"category": "RTX 4090 "
-}{
-	"name": "다나와표준PC Danawa e-sports Loki 에디션",
-	"price": "5300000",
-	"category": "인텔 "
-}{
-	"name": "GIGABYTE AORUS 지포스 RTX 4090 Master D6X 24GB 피씨디렉트",
-	"price": "2708040",
-	"category": "RTX 4090 "
-}{
-	"name": "GIGABYTE 지포스 RTX 4090 WINDFORCE D6X 24GB 제이씨현",
-	"price": "2482560",
-	"category": "RTX 4090 "
-}{
-	"name": "몬스타 몬스타기어 게놈13",
-	"price": "5780000",
-	"category": "인텔 "
-}{
-	"name": "PNY 지포스 RTX 4090 VERTO D6X 24GB Triple 마이크로닉스",
-	"price": "2376930",
-	"category": "RTX 4090 "
+	"17001050": {
+		"name": "SK하이닉스 Platinum P41 M.2 NVMe",
+		"category": "내장형SSD",
+		"price": "139000",
+		"detail": "M.2 (2280) / PCIe4.0x4 (64GT/s) / NVMe 1.4 / TLC(기타) / 3D낸드 / DDR4 / 컨트롤러: SK하이닉스 Aries / PS5 호환 / [성능] 순차읽기: 7,000MB/s / 순차쓰기: 6,500MB/s / 읽기IOPS: 1,400K / 쓰기IOPS: 1,300K / [지원기능] TRIM / GC / SLC캐싱 / S.M.A.R.T / DEVSLP / AES 암호화 / 전용 S/W / [환경특성] MTBF: 150만시간 / TBW: 750TB / A/S기간: 5년 / 방열판 미포함 / 두께: 2.38mm / 7g"
+	},
+	"14905265": {
+		"name": "마이크론 Crucial P5 Plus M.2 NVMe 대원씨티에스",
+		"category": "내장형SSD",
+		"price": "102300",
+		"detail": "M.2 (2280) / PCIe4.0x4 (64GT/s) / NVMe / TLC(기타) / 3D낸드 / 확인요망 / 컨트롤러: DM02A1 / PS5 호환 / [성능] 순차읽기: 6,600MB/s / 순차쓰기: 5,000MB/s / 읽기IOPS: 630K / 쓰기IOPS: 700K / [지원기능] TRIM / S.M.A.R.T / DEVSLP / ECC / 전용 S/W / [환경특성] MTBF: 200만시간 / TBW: 600TB / A/S기간: 5년, 제한보증 / 방열판 미포함 / 두께: 2.4mm / 17g"
+	},
+	"13276568": {
+		"name": "삼성전자 PM9A1 M.2 NVMe 병행수입",
+		"category": "내장형SSD",
+		"price": "75930",
+		"detail": "M.2 (2280) / PCIe4.0x4 (64GT/s) / NVMe 1.3 / TLC(기타) / 3D낸드 / 컨트롤러: 삼성 / PS5 호환 / [성능] 순차읽기: 7,000MB/s / 순차쓰기: 5,100MB/s / 읽기IOPS: 1,000K / 쓰기IOPS: 850K / [환경특성] MTBF: 150만시간 / 방열판 미포함 / 두께: 2.38mm / 9g"
+	},
+	"13161338": {
+		"name": "SK하이닉스 Gold P31 M.2 NVMe",
+		"category": "내장형SSD",
+		"price": "98000",
+		"detail": "M.2 (2280) / PCIe3.0x4 (32GT/s) / NVMe 1.3 / TLC(기타) / 3D낸드 / DDR4 / 컨트롤러: SK hynix Cepheus / [성능] 순차읽기: 3,500MB/s / 순차쓰기: 3,200MB/s / 읽기IOPS: 570K / 쓰기IOPS: 600K / [지원기능] TRIM / SLC캐싱 / S.M.A.R.T / 전용 S/W / [환경특성] MTBF: 150만시간 / TBW: 750TB / A/S기간: 5년 / 두께: 2.3mm / 7g"
+	},
+	"5791864": {
+		"name": "마이크론 Crucial MX500 대원씨티에스",
+		"category": "내장형SSD",
+		"price": "42780",
+		"detail": "6.4cm(2.5형) / SATA3 (6Gb/s) / TLC(기타) / 3D낸드 / 컨트롤러: 실리콘모션 SM2258 / [성능] 순차읽기: 560MB/s / 순차쓰기: 510MB/s / 읽기IOPS: 95K / 쓰기IOPS: 90K / [지원기능] TRIM / GC / S.M.A.R.T / DEVSLP / ECC / AES 암호화 / 전용 S/W / [환경특성] MTBF: 180만시간 / TBW: 180TB / A/S기간: 5년 / 두께: 7mm / [기타] 마이크론 커스텀 펌웨어 컨트롤러"
+	},
+	"13538642": {
+		"name": "삼성전자 980 PRO M.2 NVMe",
+		"category": "내장형SSD",
+		"price": "191140",
+		"detail": "M.2 (2280) / PCIe4.0x4 (64GT/s) / NVMe 1.3c / TLC(기타) / 3D낸드 / DDR4 2GB / 컨트롤러: 삼성 / PS5 호환 / [성능] 순차읽기: 7,000MB/s / 순차쓰기: 5,100MB/s / 읽기IOPS: 1,000K / 쓰기IOPS: 1,000K / [지원기능] TRIM / GC / S.M.A.R.T / DEVSLP / AES 암호화 / 전용 S/W / [환경특성] MTBF: 150만시간 / TBW: 1,200TB / A/S기간: 5년 / 방열판 미포함 / 두께: 2.38mm / 최대 9g"
+	},
+	"13190519": {
+		"name": "삼성전자 870 EVO",
+		"category": "내장형SSD",
+		"price": "44600",
+		"detail": "6.4cm(2.5형) / SATA3 (6Gb/s) / TLC(기타) / 3D낸드 / DDR4 512MB / 컨트롤러: 삼성 MKX / [성능] 순차읽기: 560MB/s / 순차쓰기: 530MB/s / 읽기IOPS: 98K / 쓰기IOPS: 88K / [지원기능] TRIM / GC / S.M.A.R.T / AES 암호화 / 전용 S/W / [환경특성] MTBF: 150만시간 / TBW: 300TB / A/S기간: 5년 / 두께: 6.8mm / 45g"
+	},
+	"7136755": {
+		"name": "삼성전자 970 EVO Plus M.2 NVMe",
+		"category": "내장형SSD",
+		"price": "45200",
+		"detail": "M.2 (2280) / PCIe3.0x4 (32GT/s) / NVMe 1.3 / TLC(토글) / 3D낸드 / DDR4 512MB / 컨트롤러: 삼성 Phoenix / [성능] 순차읽기: 3,500MB/s / 순차쓰기: 3,200MB/s / 읽기IOPS: 480K / 쓰기IOPS: 550K / [지원기능] TRIM / GC / S.M.A.R.T / DEVSLP / AES 암호화 / 전용 S/W / [환경특성] MTBF: 150만시간 / TBW: 300TB / A/S기간: 5년 / 방열판 미포함 / 두께: 2.38mm / 최대 8g / [기타] 구매전 병행수입 전환판매 여부 반드시 확인요망"
+	},
+	"13562693": {
+		"name": "삼성전자 980 M.2 NVMe",
+		"category": "내장형SSD",
+		"price": "45880",
+		"detail": "M.2 (2280) / PCIe3.0x4 (32GT/s) / NVMe 1.4 / TLC(기타) / 컨트롤러: 삼성 Pablo / [성능] 순차읽기: 3,100MB/s / 순차쓰기: 2,600MB/s / 읽기IOPS: 400K / 쓰기IOPS: 470K / [지원기능] TRIM / GC / S.M.A.R.T / DEVSLP / HMB / AES 암호화 / 전용 S/W / [환경특성] MTBF: 150만시간 / TBW: 300TB / A/S기간: 5년, 제한보증 / 방열판 미포함 / 두께: 2.38mm / 8g"
+	},
+	"18636905": {
+		"name": "Western Digital WD SN740 M.2 2230 NVMe 해외구매",
+		"category": "내장형SSD",
+		"price": "170310",
+		"detail": "M.2 (2230) / PCIe4.0x4 (64GT/s) / NVMe 1.4 / 3D낸드 / 스팀덱 호환 / [성능] 순차읽기: 5,150MB/s / 순차쓰기: 4,850MB/s / 읽기IOPS: 650K / 쓰기IOPS: 800K / [환경특성] MTBF: 175만시간 / TBW: 500TB / 방열판 미포함 / 두께: 2.3mm"
+	},
+	"13486118": {
+		"name": "삼성전자 PM9A1 M.2 NVMe 벌크",
+		"category": "내장형SSD",
+		"price": "77020",
+		"detail": "M.2 (2280) / PCIe4.0x4 (64GT/s) / NVMe 1.3 / TLC(기타) / 3D낸드 / 컨트롤러: 삼성 / PS5 호환 / [성능] 순차읽기: 7,000MB/s / 순차쓰기: 5,100MB/s / 읽기IOPS: 1,000K / 쓰기IOPS: 850K / [환경특성] MTBF: 150만시간 / 방열판 미포함 / 두께: 2.38mm / 9g / [기타] 노트북 적출상품 / 병행, 중고 판매처 확인요망"
+	},
+	"18297722": {
+		"name": "삼성전자 990 PRO M.2 NVMe",
+		"category": "내장형SSD",
+		"price": "242220",
+		"detail": "M.2 (2280) / PCIe4.0x4 (64GT/s) / NVMe 2.0 / TLC(기타) / 3D낸드 / DDR4 2GB / 컨트롤러: 삼성 / PS5 호환 / [성능] 순차읽기: 7,450MB/s / 순차쓰기: 6,900MB/s / 읽기IOPS: 1,400K / 쓰기IOPS: 1,550K / [지원기능] TRIM / GC / S.M.A.R.T / DEVSLP / AES 암호화 / 전용 S/W / [환경특성] MTBF: 150만시간 / TBW: 1,200TB / A/S기간: 5년, 제한보증 / 방열판 미포함 / 두께: 2.3mm / 9g"
+	},
+	"16587548": {
+		"name": "Western Digital WD BLACK SN770 M.2 NVMe",
+		"category": "내장형SSD",
+		"price": "57040",
+		"detail": "M.2 (2280) / PCIe4.0x4 (64GT/s) / NVMe 1.4 / TLC(기타) / 3D낸드 / [성능] 순차읽기: 5,000MB/s / 순차쓰기: 4,000MB/s / 읽기IOPS: 460K / 쓰기IOPS: 800K / [지원기능] TRIM / S.M.A.R.T / 전용 S/W / [환경특성] MTBF: 175만시간 / TBW: 300TB / A/S기간: 5년, 제한보증 / 방열판 미포함 / 두께: 2.38mm / 5.5g"
+	},
+	"19666160": {
+		"name": "PNY CS1031 Gen3 M.2 NVMe 제이씨현",
+		"category": "내장형SSD",
+		"price": "99000",
+		"detail": "M.2 (2280) / PCIe3.0x4 (32GT/s) / NVMe 1.3 / QLC / 3D낸드 / 컨트롤러: 파이슨 / [성능] 순차읽기: 2,400MB/s / 순차쓰기: 1,750MB/s / [지원기능] TRIM / S.M.A.R.T / HMB / [환경특성] MTBF: 200만시간 / A/S기간: 5년 / 방열판 미포함 / 두께: 4mm / 6.6g"
+	},
+	"14803520": {
+		"name": "Seagate 파이어쿠다 530 M.2 NVMe",
+		"category": "내장형SSD",
+		"price": "145000",
+		"detail": "M.2 (2280) / PCIe4.0x4 (64GT/s) / NVMe 1.4 / TLC(기타) / 3D낸드 / DDR4 / 컨트롤러: E18 / PS5 호환 / [성능] 순차읽기: 7,300MB/s / 순차쓰기: 6,000MB/s / 읽기IOPS: 800K / 쓰기IOPS: 1,000K / [지원기능] TRIM / GC / S.M.A.R.T / DEVSLP / 전용 S/W / [환경특성] MTBF: 180만시간 / TBW: 1,275TB / A/S기간: 5년, 데이터 복구 3년, 제한보증 / 방열판 미포함 / 두께: 2.23mm  / 8.1g"
+	},
+	"17706038": {
+		"name": "솔리다임 P41 PLUS M.2 NVMe",
+		"category": "내장형SSD",
+		"price": "76690",
+		"detail": "M.2 (2280) / PCIe4.0x4 (64GT/s) / NVMe / QLC / 3D낸드 / [성능] 순차읽기: 4,125MB/s / 순차쓰기: 2,950MB/s / 읽기IOPS: 390K / 쓰기IOPS: 540K / [지원기능] SLC캐싱 / 전용 S/W / [환경특성] MTBF: 160만시간 / TBW: 400TB / A/S기간: 5년 / 방열판 미포함"
+	},
+	"14019083": {
+		"name": "인텔 SOLIDIGM 670p M.2 NVMe",
+		"category": "내장형SSD",
+		"price": "70640",
+		"detail": "M.2 (2280) / PCIe3.0x4 (32GT/s) / NVMe / QLC / 3D낸드 / [성능] 순차읽기: 3,500MB/s / 순차쓰기: 2,500MB/s / 읽기IOPS: 220K / 쓰기IOPS: 330K / [지원기능] AES 암호화 / [환경특성] MTBF: 160만시간 / TBW: 370TB / A/S기간: 5년"
+	},
+	"9496839": {
+		"name": "타무즈 GK300",
+		"category": "내장형SSD",
+		"price": "22740",
+		"detail": "6.4cm(2.5형) / SATA3 (6Gb/s) / TLC(토글) / 3D낸드 / 컨트롤러: ASolid AS2258 / [성능] 순차읽기: 550MB/s / 순차쓰기: 500MB/s / 읽기IOPS: 최대 90K / 쓰기IOPS: 최대 85K / [지원기능] TRIM / GC / SLC캐싱 / S.M.A.R.T / ECC / 전용 S/W / [환경특성] MTBF: 150만시간 / TBW: 125TB / A/S기간: 3년 / 두께: 7mm"
+	},
+	"10764075": {
+		"name": "타무즈 GKV700 M.2 NVMe",
+		"category": "내장형SSD",
+		"price": "40000",
+		"detail": "M.2 (2280) / PCIe3.0x4 (32GT/s) / NVMe / TLC(기타) / 3D낸드 / 컨트롤러: 실리콘모션 SM2263XT / [성능] 순차읽기: 2,100MB/s / 순차쓰기: 1,700MB/s / [지원기능] TRIM / GC / SLC캐싱 / S.M.A.R.T / ECC / 전용 S/W / [환경특성] MTBF: 150만시간 / A/S기간: 5년 / 방열판 미포함 / 두께: 2.3mm / 5g"
+	},
+	"12668246": {
+		"name": "Seagate 바라쿠다 Q5 M.2 NVMe",
+		"category": "내장형SSD",
+		"price": "209000",
+		"detail": "M.2 (2280) / PCIe3.0x4 (32GT/s) / NVMe 1.3 / QLC / 3D낸드 / [성능] 순차읽기: 2,400MB/s / 순차쓰기: 1,800MB/s / [지원기능] TRIM / SLC캐싱 / S.M.A.R.T / 전용 S/W / [환경특성] MTBF: 180만시간 / TBW: 531TB / A/S기간: 3년, 데이터 복구 1년 / 방열판 미포함 / 두께: 2.15mm / 7g"
+	},
+	"16365632": {
+		"name": "BIOSTAR M720 M.2 NVMe",
+		"category": "내장형SSD",
+		"price": "45490",
+		"detail": "M.2 (2280) / PCIe3.0x4 (32GT/s) / NVMe 1.4 / TLC(기타) / 3D낸드 / 컨트롤러: IG5216 / [성능] 순차읽기: 3,350MB/s / 순차쓰기: 1,300MB/s / 읽기IOPS: 106K / 쓰기IOPS: 229K / [지원기능] TRIM / S.M.A.R.T / ECC / [환경특성] A/S기간: 3년 / 방열판 미포함 / 두께: 2.6mm / 9g"
+	},
+	"15796589": {
+		"name": "Western Digital WD Blue SN570 M.2 NVMe",
+		"category": "내장형SSD",
+		"price": "44990",
+		"detail": "M.2 (2280) / PCIe3.0x4 (32GT/s) / NVMe 1.4 / TLC(기타) / 3D낸드 / [성능] 순차읽기: 3,500MB/s / 순차쓰기: 2,300MB/s / 읽기IOPS: 360K / 쓰기IOPS: 390K / [지원기능] TRIM / GC / SLC캐싱 / S.M.A.R.T / DEVSLP / ECC / 전용 S/W / [환경특성] MTBF: 150만시간 / TBW: 300TB / A/S기간: 5년, 제한보증 / 방열판 미포함 / 두께: 2.38mm / 6.5g"
+	},
+	"17454590": {
+		"name": "마이크론 Crucial P3 M.2 NVMe 대원씨티에스",
+		"category": "내장형SSD",
+		"price": "42780",
+		"detail": "M.2 (2280) / PCIe3.0x4 (32GT/s) / NVMe / 3D낸드 / [성능] 순차읽기: 3,500MB/s / 순차쓰기: 1,900MB/s / [환경특성] A/S기간: 5년, 제한보증 / 방열판 미포함 / 두께: 2.4mm / 17g"
+	},
+	"17398076": {
+		"name": "SK하이닉스 Platinum P41 M.2 NVMe 해외구매",
+		"category": "내장형SSD",
+		"price": "237000",
+		"detail": "M.2 (2280) / PCIe4.0x4 (64GT/s) / NVMe 1.4 / TLC(기타) / 3D낸드 / DDR4 / 컨트롤러: SK하이닉스 Aries / PS5 호환 / [성능] 순차읽기: 7,000MB/s / 순차쓰기: 6,500MB/s / 읽기IOPS: 1,400K / 쓰기IOPS: 1,300K / [지원기능] TRIM / GC / SLC캐싱 / S.M.A.R.T / DEVSLP / AES 암호화 / 전용 S/W / [환경특성] MTBF: 150만시간 / TBW: 1,200TB / 방열판 미포함 / 두께: 2.38mm / 7g"
+	},
+	"11711015": {
+		"name": "삼성전자 870 QVO",
+		"category": "내장형SSD",
+		"price": "579500",
+		"detail": "6.4cm(2.5형) / SATA3 (6Gb/s) / QLC / 3D낸드 / DDR4 8GB / [성능] 순차읽기: 560MB/s / 순차쓰기: 530MB/s / 읽기IOPS: 98K / 쓰기IOPS: 88K / [지원기능] TRIM / GC / S.M.A.R.T / DEVSLP / ECC / [환경특성] MTBF: 150만시간 / TBW: 2,880TB / A/S기간: 3년 / 두께: 6.8mm / 57g"
+	},
+	"11283033": {
+		"name": "키오시아 EXCERIA M.2 NVMe",
+		"category": "내장형SSD",
+		"price": "51190",
+		"detail": "M.2 (2280) / PCIe3.0x4 (32GT/s) / NVMe 1.3 / TLC(토글) / 3D낸드 / 컨트롤러: KIOXIA / [성능] 순차읽기: 1,700MB/s / 순차쓰기: 1,600MB/s / 읽기IOPS: 최대 350K / 쓰기IOPS: 최대 400K / [지원기능] TRIM / GC / SLC캐싱 / S.M.A.R.T / ECC / 전용 S/W / [환경특성] MTBF: 150만시간 / TBW: 200TB / A/S기간: 5년 / 방열판 미포함 / 두께: 2.23mm / 6.9g"
+	},
+	"18363101": {
+		"name": "COLORFUL CN600 PRO M.2 NVMe 디앤디컴",
+		"category": "내장형SSD",
+		"price": "39000",
+		"detail": "M.2 (2280) / PCIe3.0x4 (32GT/s) / NVMe / TLC(기타) / 3D낸드 / 컨트롤러: Maxiotek / [성능] 순차읽기: 3,300MB/s / 순차쓰기: 2,800MB/s / TRIM / GC / S.M.A.R.T / [환경특성] A/S기간: 3년 / 방열판 미포함 / 두께: 3mm / [기타] 23년2월부로 컨트롤러 변경"
+	},
+	"12825845": {
+		"name": "PATRIOT P300 M.2 NVMe",
+		"category": "내장형SSD",
+		"price": "63920",
+		"detail": "M.2 (2280) / PCIe3.0x4 (32GT/s) / NVMe 1.3 / TLC(기타) / 3D낸드 / 컨트롤러: Maxiotek / [성능] 순차읽기: 2,100MB/s / 순차쓰기: 1,650MB/s / 읽기IOPS: 290K / 쓰기IOPS: 260K / [지원기능] TRIM / GC / S.M.A.R.T / ECC / HMB / 전용 S/W / [환경특성] MTBF: 150만시간 / TBW: 480TB / A/S기간: 제한보증 / 방열판 미포함 / 두께: 3.8mm / 20g / [기타] 2022년 12월부로 리뉴얼로 인한 일부 스펙 변경 적용"
+	},
+	"18007421": {
+		"name": "HIKVISION HHB1 M.2 NVMe",
+		"category": "내장형SSD",
+		"price": "65680",
+		"detail": "M.2 (2280) / PCIe3.0x4 (32GT/s) / NVMe / TLC(기타) / 3D낸드 / [성능] 순차읽기: 2,460MB/s / 순차쓰기: 2,475MB/s / 읽기IOPS: 400K / 쓰기IOPS: 345K / [지원기능] TRIM / [환경특성] MTBF: 150만시간 / TBW: 730TB / A/S기간: 3년, 제한보증 / 방열판 미포함 / 7g"
+	},
+	"17454683": {
+		"name": "마이크론 Crucial P3 Plus M.2 NVMe 대원씨티에스",
+		"category": "내장형SSD",
+		"price": "78490",
+		"detail": "M.2 (2280) / PCIe4.0x4 (64GT/s) / NVMe / 3D낸드 / [성능] 순차읽기: 5,000MB/s / 순차쓰기: 3,600MB/s / [환경특성] A/S기간: 5년, 제한보증 / 방열판 미포함 / 두께: 2.4mm / 17g"
+	}
 }

@@ -81,7 +81,7 @@ class mysql:
         if (com == 1):
             self.cursor.execute(SQL)
             data = self.cursor.fetchall()
-            return data
+            return data[0]
 
     def delete(self,tables,data):
         com = 0
@@ -106,6 +106,7 @@ def main():
     print ("Main Function")
     db = mysql()
     db.insert('product',[1,2,3])
+    db.search('product',1)
     '''mysql.cursor.close()
     mysql.db.close()'''
     

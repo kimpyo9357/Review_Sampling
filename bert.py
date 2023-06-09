@@ -296,6 +296,8 @@ def BERT_list(keys,komoran):
 
     pros_cons = {name : value for name, value in zip(key,avg)}
     pros_cons = sorted(pros_cons.items(), key = lambda item: item[1])
+    print(pros_cons)
+    pros_cons, _ = zip(*pros_cons)
     return pros_cons
 
 if __name__ == "__main__":

@@ -14,40 +14,36 @@ import numpy as np
 import re
 import json
 
-def list_crawling(code):
+def list_crawling(name):
     driver = init_driver()
     #url = 'https://prod.danawa.com/list/?cate=112760'
-    url = 'https://search.danawa.com/dsearch.php?k1='+str(code)
+    url = 'https://search.danawa.com/dsearch.php?k1='+str(name)
     driver.get(url)
 
     html = driver.page_source
     soup = BeautifulSoup(html, 'html.parser')
     prod_items = soup.select('div.main_prodlist > ul.product_list > li.prod_item')
 
-    with open("data.json",'w',encoding='utf-8') as f:
-        for i in range(len(prod_items)-1): #카테고리 출력
-            data = {}
-            try:
-                title = prod_items[i].select('p.prod_name > a')[0].text
-                link = prod_items[i].select('p.prod_name > a')[0].attrs['href']
-                spec_list = prod_items[i].select('div.spec_list')[0].text.strip()
-                price = prod_items[i].select('li.rank_one > p.price_sect > a > strong')[0].text.strip().replace(',', "")
-                data['name'] = title.strip()
-                data['price'] = price
-                data['category'] = spec_list.split("/")[0]
-                #print(title.strip(), spec_list.split("/")[0], price,link, sep = '\n')
-                #print(data)
-                json.dump(data,f,ensure_ascii=False, indent='\t')
-                #print(title.strip(), link)
-            except:
-                pass
-'''prod_items[0].select('a')[0].text #한개만 테스트
-title = prod_items[0].select('p.prod_name > a')[0].text
-link = prod_items[0].select('p.prod_name > a')[0].attrs['href']
-#spec_list = prod_items[i].select('div.spec_list')[0].text.strip()
-#price = prod_items[i].select('li.rank_one > p.price_sect > a > strong')[0].text.strip().replace(',', "")
-#print(title, spec_list, price, sep = '   |||  ')
-'''
+    #with open("data.json",'w',encoding='utf-8') as f:
+    datas = {}
+    for i in range(len(prod_items)-1): #카테고리 출력
+        data = {}
+        title = prod_items[i].select('p.prod_name > a')[0].text
+        link = prod_items[i].select('p.prod_name > a')[0].attrs['href']
+        spec_list = prod_items[i].select('div.spec_list')[0].text.strip()
+        price = prod_items[i].select('li.rank_one > p.price_sect > a > strong')[0].text.strip().replace(',', "")
+        data['name'] = title.strip()
+        spec_list = spec_list.split(" / ")
+        data['category'] = spec_list[0]
+        spec_list = spec_list[1:]
+        data['price'] = price
+        pcode = ret_pcode(link)
+        data['detail'] = ' / '.join(spec_list)
+        #print(data['name'],data['category'],data['price'],data['detail'])
+        datas[pcode] = data
+        #json.dump(data,f,ensure_ascii=False, indent='\t')
+    #print(datas)
+    return datas
 
 #driver.get(link) 페이지 이동
 # 카테고리 검색
@@ -138,9 +134,10 @@ def ret_pcode(url):
     return pcode
 
 if __name__ == "__main__":
-    list_crawling("4090")
+    data = list_crawling("ssd")
+    print(data)
     #pcode = ret_pcode("https://prod.danawa.com/info/?pcode=17982347&keyword=4090&cate=112753")
-    find_review('7097410')
+    #find_review('7097410')
     '''for pcode in pcodes:
         find_review(pcode, driver)
         #for r in result:

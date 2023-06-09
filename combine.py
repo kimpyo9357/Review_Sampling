@@ -1,5 +1,7 @@
 #-*- coding: utf-8 -*-
 import re
+import json
+import crawling
 from PyKomoran import *
 
 def komoran_parsing(file):
@@ -216,9 +218,31 @@ import bert
 
 
 if __name__ == "__main__":
+    data = crawling.list_crawling("ssd")
+    '''with open("data.json", 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent='\t')'''
+    for i in data.keys():
+        a = [i, data[i]['name'], data[i]['category']]
+        print(a)
+        print(type(a))
+
+    ''' review = dict()
+    data = list()
+    data.append('0')
+    data.append('1')
     file_name = ['reveiew_13276568.txt']
     for file in file_name:
         komoran, pre_text = komoran_parsing(file)
         key, komoran, pre_text = textrank_list(komoran,pre_text)
         pros_cons = bert.BERT_list(key,komoran)
-    print(pros_cons)
+    review['pros'] = tuple(list(pros_cons[-3:])[::-1])
+    review['cons'] = pros_cons[:3]
+    data = (1,2,'a','b','c','A','B','C')
+    review['pcode'] = data[0]
+    review['name'] = data[1]
+    review['pros'] = data[2:5]
+    review['cons'] = data[5:]
+    data = data + list(review['pros']) + list(review['cons'])
+    print(data)
+    print(review)
+    '''
